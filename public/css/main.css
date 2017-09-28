@@ -4,11 +4,11 @@
 font-family: 'Karla', sans-serif;
 font-family: 'Sanchez', serif;
 */
-
 html, body {
 	height: 100%;
 }
 body {
+	font-family: 'Raleway', sans-serif;
 	line-height: 1;
 	color: #ececec;
 }
@@ -18,6 +18,10 @@ a {
 a:hover {
 	color: #2379a5;
 }
+.logo-italic {
+	margin: auto;
+	max-height: 10em;
+}
 .nav-item {
 	font-family: 'Karla', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -25,17 +29,22 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Karla', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 p {
-	font-family: 'Sanchez', helvetica, verdana, serif;
+	/*font-family: 'Sanchez', helvetica, verdana, serif;*/
 }
 li {
-	list-style: none;
+	/*list-style: none;*/
 	display: inline-block;
 }
 
 ul {
 	padding: 0;
 }
-
+.description {
+	padding: 2em;
+}
+.achievements {
+	
+}
 /* Pages */
 .wrapper {
 	display: table;
@@ -56,6 +65,9 @@ ul {
 	vertical-align: middle;
 	padding: 0 !important;
 	min-height: 0px !important;
+}
+.subtext {
+	font-size: 1.5em;
 }
 .resume {
 	margin-bottom: 1em;
