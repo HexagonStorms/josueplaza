@@ -3,7 +3,7 @@
 /* COLOR SCHEME
 DARK RED: #7E464B;
 YELLOW: #D8D6A3;
-PINK: #CB858B;
+PINK: #ad9a88;
 DARK BLUE: #548198;
 LIGHT BLUE: #85B3CB;
 
@@ -26,10 +26,10 @@ a:hover {
 	color: #548198;
 }
 .site {
-	margin-top: 25px;
+	margin-top: 50px;
 }
 .pink-link {
-	color: #CB858B;
+	color: #ad9a88;
 }
 .pink-link:hover {
 	color: #7E464B;
@@ -38,8 +38,12 @@ a:hover {
 	text-transform: uppercase;
 	display: inline-block;
 	color: white;
-	background: #CB858B;
+	background: #ad9a88;
 	padding: 0 3px;
+}
+.portfolio-img {
+	margin-top: 12px;
+	width: 100%;
 }
 .btn-resume {
 	color: white;
@@ -57,7 +61,7 @@ a:hover {
 	font-family: 'Karla', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar {
-	background: #CB858B;
+	background: #ad9a88;
 	border-radius: 0;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -116,7 +120,7 @@ ul {
 .subtext {
 	font-size: 1.2em;
 	font-weight: bold;
-	color: #CB858B;
+	color: #ad9a88;
 }
 .resume {
 	margin-bottom: 1em;
@@ -195,7 +199,7 @@ ul {
 padding: 10px; border-radius: 4px;
     }
 .event h3 {
-    display: inline-block; position: relative; padding: 3px 8px; font-size: 11px; line-height: 1.3; font-weight: 400; letter-spacing: 0; margin: 0 0 1.5em 0; text-transform: uppercase; color: #fff; background: #CB858B;
+    display: inline-block; position: relative; padding: 3px 8px; font-size: 11px; line-height: 1.3; font-weight: 400; letter-spacing: 0; margin: 0 0 1.5em 0; text-transform: uppercase; color: #fff; background: #ad9a88;
 }
 .event h3:before {
 	content: ""; position: absolute; display: block; bottom: 0; border: 10px solid #85B3CB; z-index: -1; left: -1.2em; border-right-width: 10px; border-left-color: transparent 	!important;
