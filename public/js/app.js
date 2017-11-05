@@ -42916,6 +42916,177 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {
@@ -43049,42 +43220,494 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", { attrs: { id: "portfolio-container" } }, [
+    _c("div", { attrs: { id: "particles-js" } }),
+    _vm._v(" "),
+    _vm._m(0),
+    _vm._v(" "),
+    _c("div", { staticClass: "container-fluid previous-work" }, [
+      _vm._m(1),
+      _vm._v(" "),
+      _c("div", { staticClass: "row site" }, [
+        _vm._m(2),
+        _vm._v(" "),
+        _vm._m(3),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-md-6" }, [
+          _c("p", [
+            _vm._v(
+              "\n                    The Parlevel Store is an eCommerce platform for vending operators and managers to purchase equipment for their vending operation. The Parlevel Store displays products that Parlevel Systems currently offers to their customers that was previously only available by ordering over the phone. With the Parlevel Store, Customers are able to view detailed product information, select the products they need, and then make purchases through our shop interface.\n                "
+            )
+          ]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "\n                    Customers will select the delivery address they would like their products to ship to, and after completing a purchase, will get notified on the estimated time their products will arrive. The Parlevel Store has plans to add many more products for any vending operation, as well as offering some their specialty products such as the Parlevel Micro Market Kiosk.\n                "
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-6" }, [
+              _vm._m(4),
+              _vm._v(" "),
+              _c(
+                "ul",
+                { staticClass: "portfolio-list" },
+                [
+                  _c("li", [_vm._v("Javascript")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("HTML5")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("CSS3")]),
+                  _vm._v(" "),
+                  _c("LI", [_vm._v("SASS")]),
+                  _vm._v(" "),
+                  _c("LI", [_vm._v("Webpack/Gulp")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("AngularJS")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Google Maps API")])
+                ],
+                1
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-md-6" }, [
+              _vm._m(5),
+              _vm._v(" "),
+              _c(
+                "ul",
+                { staticClass: "portfolio-list" },
+                [
+                  _c("li", [_vm._v("PHP")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("MySQL")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Laravel")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("ShipStation API")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("BrainTree (PayPal) API")]),
+                  _vm._v(" "),
+                  _c("LI", [_vm._v("Avalara AvaTax API")])
+                ],
+                1
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _vm._m(6)
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "row site" }, [
+        _vm._m(7),
+        _vm._v(" "),
+        _vm._m(8),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-md-6" }, [
+          _c("p", [
+            _vm._v(
+              "\n                    In the world of League of Legends eSports, pro players come and go. Many make a name for themselves on the battlefield of Summoner's Rift while others fade away into obscurity. Almost all of these professional gamers have Twitch.Tv accounts and often stream for viewers. However, tracking these players' Twitch accounts is time-consuming and quickly outdated. There is no directory of Twitch profiles for LoL pro players, and with Major Leagues all across the world, it's difficult to keep track of new and old players.\n                "
+            )
+          ]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "\n                    This website provides a place to find current Professional Players and whether or not they are currently online streaming. Now you can discover new pro players, or reminisce over the old favorites of the past.\n                "
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-6" }, [
+              _vm._m(9),
+              _vm._v(" "),
+              _c(
+                "ul",
+                { staticClass: "portfolio-list" },
+                [
+                  _c("li", [_vm._v("Javascript")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("HTML5")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("CSS3")]),
+                  _vm._v(" "),
+                  _c("LI", [_vm._v("SASS")]),
+                  _vm._v(" "),
+                  _c("LI", [_vm._v("Webpack/Gulp")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("AngularJS")])
+                ],
+                1
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-md-6" }, [
+              _vm._m(10),
+              _vm._v(" "),
+              _c(
+                "ul",
+                { staticClass: "portfolio-list" },
+                [
+                  _c("li", [_vm._v("PHP")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("MySQL")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Laravel")]),
+                  _vm._v(" "),
+                  _c("LI", [_vm._v("Twitch API (Helix version)")])
+                ],
+                1
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _vm._m(11),
+          _vm._v(" "),
+          _vm._m(12)
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "row site" }, [
+        _vm._m(13),
+        _vm._v(" "),
+        _vm._m(14),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-md-6" }, [
+          _c("p", [
+            _vm._v(
+              "\n                    Parlevel’s Business Feed sends everything you need to know about your vending, micro market, or OCS operation directly to your mobile phone. Receive push notifications for route progress, service ticket status, customer feedback, and more!\n                "
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-md-6" }, [
+              _vm._m(15),
+              _vm._v(" "),
+              _c(
+                "ul",
+                { staticClass: "portfolio-list" },
+                [
+                  _c("li", [_vm._v("HTML5")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("CSS3")]),
+                  _vm._v(" "),
+                  _c("LI", [_vm._v("SASS")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Javascript")]),
+                  _vm._v(" "),
+                  _c("LI", [_vm._v("Webpack/Gulp")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Ionic")]),
+                  _vm._v(" "),
+                  _c("li", [_vm._v("Angular 2 + TypeScript")])
+                ],
+                1
+              )
+            ]),
+            _vm._v(" "),
+            _vm._m(16)
+          ]),
+          _vm._v(" "),
+          _vm._m(17),
+          _vm._v(" "),
+          _vm._m(18)
+        ])
+      ]),
+      _vm._v(" "),
+      _vm._m(19)
+    ])
+  ])
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { attrs: { id: "portfolio-container" } }, [
-      _c("div", { attrs: { id: "particles-js" } }),
+    return _c("div", { staticClass: "container-fluid portfolio-banner" }, [
+      _c("div", { staticClass: "row" }, [
+        _c(
+          "div",
+          {
+            staticClass: "col-md-6 col-md-offset-1 col-sm-12 col-xs-12 headline"
+          },
+          [_vm._v("\n                Fast & fluent.\n            ")]
+        )
+      ]),
       _vm._v(" "),
-      _c("div", { staticClass: "container-fluid portfolio-banner" }, [
-        _c("div", { staticClass: "row" }, [
-          _c(
-            "div",
-            {
-              staticClass:
-                "col-md-6 col-md-offset-1 col-sm-12 col-xs-12 headline"
-            },
-            [_vm._v("\n                Fast & fluent.\n            ")]
+      _c("div", { staticClass: "row" }, [
+        _c("div", { staticClass: "col-md-6 col-md-offset-1" }, [
+          _vm._v(
+            "\n                Every project starts with an idea. My job is create scalable applications that are easy to use. My passion is in combining technical components seamlessly with elegant design.\n            "
+          )
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row previous-work-title" }, [
+      _c("div", { staticClass: "col-md-8 col-md-offset-1" }, [
+        _c("h4", [_vm._v("PREVIOUS WORK")])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-12 text-center site-title" }, [
+      _c("h2", [_vm._v("The Parlevel Store")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-6" }, [
+      _c("img", {
+        staticClass: "mockup-img",
+        attrs: { src: "/img/mockups/parlevelstore_1900x1093c.png" }
+      })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h6", { staticClass: "portfolio-subheader" }, [
+      _c("b", [_vm._v("Technologies - FRONTEND")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h6", { staticClass: "portfolio-subheader" }, [
+      _c("b", [_vm._v("Technologies - BACKEND")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-12" }, [
+      _c("a", { attrs: { href: "https://parlevelstore.com" } }, [
+        _vm._v("Live Site")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-12 text-center site-title" }, [
+      _c("h2", [_vm._v("Pro Players Online")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-6" }, [
+      _c("img", {
+        staticClass: "mockup-img",
+        attrs: { src: "/img/mockups/proplayers_1900x1093c.png" }
+      })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h6", { staticClass: "portfolio-subheader" }, [
+      _c("b", [_vm._v("Technologies - FRONTEND")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h6", { staticClass: "portfolio-subheader" }, [
+      _c("b", [_vm._v("Technologies - BACKEND")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-12" }, [
+      _c("a", { attrs: { href: "http://www.proplayers.online" } }, [
+        _vm._v("Live Site")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-12" }, [
+      _c(
+        "a",
+        { attrs: { href: "https://github.com/hexagonstorms/proplayers" } },
+        [_vm._v("Github Repository")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-12 text-center site-title" }, [
+      _c("h2", [_vm._v("Parlevel Business Feed")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-6" }, [
+      _c("img", {
+        staticClass: "mockup-img",
+        attrs: { src: "/img/mockups/feed1_1000x898.png" }
+      })
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h6", { staticClass: "portfolio-subheader" }, [
+      _c("b", [_vm._v("Technologies - FRONTEND")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-6" }, [
+      _c("h6", { staticClass: "portfolio-subheader" }, [
+        _c("b", [_vm._v("Technologies - BACKEND")])
+      ]),
+      _vm._v(" "),
+      _c("ul", { staticClass: "portfolio-list" }, [
+        _c("li", [_vm._v("PHP")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("MySQL")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Laravel")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Cordova")])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://itunes.apple.com/us/app/parlevel-business-feed/id1224221361?mt=8m"
+          }
+        },
+        [_vm._v("Apple iOS Listing")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://play.google.com/store/apps/details?id=com.parlevelsystems.BusinessFeed&hl=en"
+          }
+        },
+        [_vm._v("Google Play Android Listing")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row site" }, [
+      _c("div", { staticClass: "col-md-12 text-center site-title" }, [
+        _c("h2", [_vm._v("Community Helpers")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-6" }, [
+        _c("img", {
+          staticClass: "mockup-img",
+          attrs: { src: "/img/mockups/comhelpers_1900x1093c.png" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-6" }, [
+        _c("p", [
+          _vm._v(
+            "\n                    Community-Helpers is a web application that connects seniors that need work done around their home and the youth that want to earn some extra money. Built using Laravel, PHP, MySQL, JavaScript, jQuery, and Twitter Bootstrap. Development done in a Vagrant environment. Version control using Git and GitHub. Features a helper/giver dashboard, a job listing for helpers to apply to, and giving the power to the giver to select a helper based on their jobs completed and reviews.\n                "
           )
         ]),
         _vm._v(" "),
         _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-md-6 col-md-offset-1" }, [
-            _vm._v(
-              "\n                Every project starts with an idea. My job is create scalable applications that are easy to use. My passion is in combining technical components seamlessly with elegant design.\n            "
-            )
+          _c("div", { staticClass: "col-md-6" }, [
+            _c("h6", { staticClass: "portfolio-subheader" }, [
+              _c("b", [_vm._v("Technologies - FRONTEND")])
+            ]),
+            _vm._v(" "),
+            _c("ul", { staticClass: "portfolio-list" }, [
+              _c("li", [_vm._v("Javascript")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("HTML5")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("CSS3")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Bootstrap")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("jQuery")])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-md-6" }, [
+            _c("h6", { staticClass: "portfolio-subheader" }, [
+              _c("b", [_vm._v("Technologies - BACKEND")])
+            ]),
+            _vm._v(" "),
+            _c("ul", { staticClass: "portfolio-list" }, [
+              _c("li", [_vm._v("PHP")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("MySQL")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Laravel")])
+            ])
           ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "container-fluid" }, [
-        _c("div", { staticClass: "row previous-work" }, [
-          _c("div", { staticClass: "col-md-8 col-md-offset-1" }, [
-            _c("h4", [_vm._v("PREVIOUS WORK")])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-md-12" }, [
+          _c("a", { attrs: { href: "http://community-helpers.com/" } }, [
+            _vm._v("Live Site")
           ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-md-12" }, [
+          _c(
+            "a",
+            {
+              attrs: { href: "https://github.com/fpigeonjr/community-helpers" }
+            },
+            [_vm._v("Github Repository")]
+          )
         ])
       ])
     ])

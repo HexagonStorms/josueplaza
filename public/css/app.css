@@ -8427,8 +8427,26 @@ body {
 
 .previous-work {
   padding-top: 40px;
+}
+
+.site:nth-child(odd) {
   background-color: #e8e8e8;
-  height: 800px;
+}
+
+.previous-work-title {
+  padding-bottom: 40px;
+}
+
+.mockup-img {
+  width: 100%;
+}
+
+.site-title {
+  margin-bottom: 25px;
+}
+
+.site {
+  min-height: 600px;
 }
 
 /* ----------------------------------------------------------------- */
