@@ -8357,10 +8357,17 @@ button.close {
 /* ----------------------------------------------------------------- */
 
 body {
+  background-color: white;
   font-family: 'Raleway', sans-serif;
 }
 
+#app {
+  background-color: #f9f5f4;
+  position: relative;
+}
+
 .navbar-default {
+  margin: 0 20px;
   background-color: unset;
   border: none;
 }
@@ -8372,6 +8379,11 @@ body {
 /* ----------------------------------------------------------------- */
 
 #index-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
   height: 100vh;
   background-image: url("/img/workspace_2400x1600c.jpg");
   background-size: cover;
@@ -8379,9 +8391,134 @@ body {
 }
 
 .headline {
-  margin-top: 150px;
+  margin-top: 122px;
   font-size: 3em;
   font-weight: bold;
   line-height: 1em;
+}
+
+/* ----------------------------------------------------------------- */
+
+/* PORTFOLIO */
+
+/* ----------------------------------------------------------------- */
+
+#portfolio-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+#particles-js {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #d2d2d2;
+  height: 500px;
+}
+
+.portfolio-banner {
+  height: 500px;
+}
+
+.previous-work {
+  padding-top: 40px;
+  background-color: #e8e8e8;
+  height: 800px;
+}
+
+/* ----------------------------------------------------------------- */
+
+/* ANIMATIONS */
+
+/* ----------------------------------------------------------------- */
+
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  -webkit-transition: opacity 2s linear;
+  transition: opacity 2s linear;
+  -webkit-transition-delay: 0.5s;
+  /* Safari */
+  transition-delay: 0.5s;
+}
+
+.fade-leave-active {
+  -webkit-transition: opacity 1s linear;
+  transition: opacity 1s linear;
+  opacity: 0;
+}
+
+.slide-enter {
+  opacity: 0;
+}
+
+.slide-enter-active {
+  -webkit-transition: opacity 0.5s linear;
+  transition: opacity 0.5s linear;
+  -webkit-animation: slide-in 0.75s ease-out forwards;
+          animation: slide-in 0.75s ease-out forwards;
+}
+
+.slide-leave-active {
+  -webkit-animation: slide-out 0.75s ease-out forwards;
+          animation: slide-out 0.75s ease-out forwards;
+  -webkit-transition: opacity 0.5s linear;
+  transition: opacity 0.5s linear;
+  opacity: 0;
+}
+
+@-webkit-keyframes slide-in {
+  from {
+    -webkit-transform: translateX(75%);
+            transform: translateX(75%);
+  }
+
+  to {
+    -webkit-transform: translateX(0%);
+            transform: translateX(0%);
+  }
+}
+
+@keyframes slide-in {
+  from {
+    -webkit-transform: translateX(75%);
+            transform: translateX(75%);
+  }
+
+  to {
+    -webkit-transform: translateX(0%);
+            transform: translateX(0%);
+  }
+}
+
+@-webkit-keyframes slide-out {
+  from {
+    -webkit-transform: translateX(0%);
+            transform: translateX(0%);
+  }
+
+  to {
+    -webkit-transform: translateX(-75%);
+            transform: translateX(-75%);
+  }
+}
+
+@keyframes slide-out {
+  from {
+    -webkit-transform: translateX(0%);
+            transform: translateX(0%);
+  }
+
+  to {
+    -webkit-transform: translateX(-75%);
+            transform: translateX(-75%);
+  }
 }
 

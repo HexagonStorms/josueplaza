@@ -10,26 +10,33 @@
     </head>
     <body>
         <div id='app'>
-            
-            <nav class="navbar navbar-default navbar-fixed-top">
-                <div class="container">
+            <div class="container">
+                <nav class="navbar navbar-default navbar-fixed-top">
                     <div class="navbar-header">
                         <a class="navbar-brand" href="#">
-                            <img alt="Brand" src="/img/jp_logo.png" width="57px">
+                            <transition name="fade" appear>
+                                <img alt="Brand" src="/img/jp_logo.png" id="brand-logo" width="57px">
+                            </transition>
                         </a>
                         
                     </div>
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="/">HOME</a></li>
-                        <li><a href="#/resume">RESUME</a></li>
+                        <li><a href="#/">HOME</a></li>
+                        <!-- <li><a href="#/resume">RESUME</a></li> -->
                         <li><a href="#/portfolio">PORTFOLIO</a></li>
-                        <li><a href="#/contact">CONTACT</a></li>
+                        <!-- <li><a href="#/contact">CONTACT</a></li> -->
                     </ul>
-                </div>
-            </nav>
-            
-            <router-view></router-view>
+                </nav>
+                
+            </div>
+            <transition name="slide">
+                <router-view></router-view>
+            </transition>
         </div>
         <script src="/js/app.js"></script>
+        
+        <script>
+            
+</script>
     </body>
 </html>
