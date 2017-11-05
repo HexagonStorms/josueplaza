@@ -42798,20 +42798,26 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "container" }, [
+    return _c("div", { attrs: { id: "index-container" } }, [
       _c("div", { staticClass: "row" }, [
-        _c("div", { staticClass: "col-md-8 col-md-offset-2" }, [
-          _c("div", { staticClass: "panel panel-default" }, [
-            _c("div", { staticClass: "panel-heading" }, [
-              _vm._v("Index Component")
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "panel-body" }, [
-              _vm._v(
-                "\n                    I'm the index component!\n                "
-              )
-            ])
-          ])
+        _c(
+          "div",
+          {
+            staticClass: "col-md-6 col-md-offset-2 col-sm-12 col-xs-12 headline"
+          },
+          [
+            _vm._v("\n            Beatiful designs,"),
+            _c("br"),
+            _vm._v("\n            pragmatic approach.\n        ")
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "row" }, [
+        _c("div", { staticClass: "col-md-4 col-md-offset-2" }, [
+          _vm._v(
+            "\n            As a designer and developer, I understand the perfect web application should look good and work even better. Alongside my co-workers, I construct beautiful solutions for problems. In short, I craft robust online experiences.\n        "
+          )
         ])
       ])
     ])
@@ -45838,7 +45844,7 @@ if (inBrowser && window.Vue) {
 
 
 var routes = [{
-	path: '/',
+	path: '',
 	component: __WEBPACK_IMPORTED_MODULE_0__components_Index_vue___default.a
 }, {
 	path: '/portfolio',

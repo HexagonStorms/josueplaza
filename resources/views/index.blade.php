@@ -10,6 +10,24 @@
     </head>
     <body>
         <div id='app'>
+            
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#">
+                            <img alt="Brand" src="/img/jp_logo.png" width="57px">
+                        </a>
+                        
+                    </div>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/">HOME</a></li>
+                        <li><a href="#/resume">RESUME</a></li>
+                        <li><a href="#/portfolio">PORTFOLIO</a></li>
+                        <li><a href="#/contact">CONTACT</a></li>
+                    </ul>
+                </div>
+            </nav>
+            
             <router-view></router-view>
         </div>
         <script src="/js/app.js"></script>

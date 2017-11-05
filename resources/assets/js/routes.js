@@ -5,7 +5,7 @@ import Contact from './components/Contact.vue';
 
 export const routes = [
 	{ 
-		path: '/',
+		path: '',
 		component: Index,
 	},
 	{ 

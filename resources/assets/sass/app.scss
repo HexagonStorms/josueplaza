@@ -9,5 +9,27 @@
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
 /* ----------------------------------------------------------------- */
+/* GLOBAL */
+/* ----------------------------------------------------------------- */
+body {
+	font-family: 'Raleway', sans-serif;
+}
+.navbar-default {
+	background-color: unset;
+	border: none;
+}
+/* ----------------------------------------------------------------- */
 /* INDEX */
 /* ----------------------------------------------------------------- */
+#index-container {
+	height: 100vh;
+	background-image: url('/img/workspace_2400x1600c.jpg');
+	background-size: cover;
+    background-position: center 0%;
+}
+.headline {
+	margin-top: 150px;
+	font-size: 3em;
+	font-weight: bold;
+	line-height: 1em;
+}
