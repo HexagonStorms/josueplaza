@@ -8357,7 +8357,7 @@ button.close {
 /* ----------------------------------------------------------------- */
 
 body {
-  background-color: white;
+  background-color: #f9f5f4;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -8366,10 +8366,46 @@ body {
   position: relative;
 }
 
+@media (max-width: 767px) {
+  #brand-logo {
+    width: 36px;
+  }
+
+  .navbar-default {
+    background-color: #f9f5f4;
+  }
+
+  .mobile-padding {
+    padding: 0 10px;
+  }
+
+  .mobile-text {
+    color: black;
+    padding-top: 50px;
+    font-size: 1em;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 768px) {
+  #brand-logo {
+    width: 57px;
+  }
+
+  .navbar-default {
+    background-color: unset;
+    border: none;
+  }
+}
+
 .navbar-default {
-  margin: 0 20px;
-  background-color: unset;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0 20px;
   border: none;
+  z-index: 20;
 }
 
 /* ----------------------------------------------------------------- */
@@ -8439,6 +8475,7 @@ body {
 
 .mockup-img {
   width: 100%;
+  padding-bottom: 20px;
 }
 
 .site-title {
@@ -8446,7 +8483,7 @@ body {
 }
 
 .site {
-  min-height: 600px;
+  min-height: 580px;
 }
 
 /* ----------------------------------------------------------------- */
@@ -8480,13 +8517,9 @@ body {
 .slide-enter-active {
   -webkit-transition: opacity 0.5s linear;
   transition: opacity 0.5s linear;
-  -webkit-animation: slide-in 0.75s ease-out forwards;
-          animation: slide-in 0.75s ease-out forwards;
 }
 
 .slide-leave-active {
-  -webkit-animation: slide-out 0.75s ease-out forwards;
-          animation: slide-out 0.75s ease-out forwards;
   -webkit-transition: opacity 0.5s linear;
   transition: opacity 0.5s linear;
   opacity: 0;

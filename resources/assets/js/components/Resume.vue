@@ -17,7 +17,6 @@
 <script>
     export default {
         mounted() {
-            console.log('resume mounted.')
         }
     }
 </script>

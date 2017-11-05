@@ -197,9 +197,7 @@
 
 <script>
     export default {
-        mounted() {
-            console.log('portfolio mounted.')
-            
+        mounted() {            
             particlesJS('particles-js',
             {
                 "particles": {

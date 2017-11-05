@@ -7,28 +7,33 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <title>Josue Plaza | Full Stack Developer</title>
         <link type="text/css" rel="stylesheet" href="/css/app.css">
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/jp_logo_grey.png">
     </head>
     <body>
         <div id='app'>
-            <div class="container">
-                <nav class="navbar navbar-default navbar-fixed-top">
-                    <div class="navbar-header">
-                        <a class="navbar-brand" href="#">
-                            <transition name="fade" appear>
-                                <img alt="Brand" src="/img/jp_logo.png" id="brand-logo" width="57px">
-                            </transition>
-                        </a>
-                        
-                    </div>
+            <nav class="navbar navbar-default">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#/">
+                        <transition name="fade" appear>
+                            <img alt="Brand" src="/img/jp_logo_grey.png" id="brand-logo">
+                        </transition>
+                    </a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span> 
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="#/">HOME</a></li>
                         <!-- <li><a href="#/resume">RESUME</a></li> -->
                         <li><a href="#/portfolio">PORTFOLIO</a></li>
                         <!-- <li><a href="#/contact">CONTACT</a></li> -->
                     </ul>
-                </nav>
-                
-            </div>
+                    
+                </div>
+            </nav>
             <transition name="slide">
                 <router-view></router-view>
             </transition>

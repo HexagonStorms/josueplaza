@@ -990,8 +990,6 @@ var router = new __WEBPACK_IMPORTED_MODULE_1_vue_router__["a" /* default */]({
     routes: __WEBPACK_IMPORTED_MODULE_2__routes__["a" /* routes */]
 });
 
-console.log('hello');
-
 var app = new __WEBPACK_IMPORTED_MODULE_0_vue___default.a({
     el: '#app',
     router: router
@@ -42771,9 +42769,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-    mounted: function mounted() {
-        console.log('Index mounted.');
-    }
+    mounted: function mounted() {}
 });
 
 /***/ }),
@@ -42798,7 +42794,7 @@ var staticRenderFns = [
         _c("div", { attrs: { id: "index-container" } }),
         _vm._v(" "),
         _c("div", { staticClass: "container-fluid" }, [
-          _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "row mobile-padding" }, [
             _c(
               "div",
               {
@@ -42813,8 +42809,8 @@ var staticRenderFns = [
             )
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "row" }, [
-            _c("div", { staticClass: "col-md-4 col-md-offset-2" }, [
+          _c("div", { staticClass: "row mobile-padding" }, [
+            _c("div", { staticClass: "col-md-4 col-md-offset-2 mobile-text" }, [
               _vm._v(
                 "\n                As a designer and developer, I understand that the perfect web application should look good and work even better. Alongside my co-workers, I construct beautiful solutions for problems. In short, I craft robust online experiences.\n            "
               )
@@ -43090,8 +43086,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {
-    console.log('portfolio mounted.');
-
     particlesJS('particles-js', {
       "particles": {
         "number": {
@@ -43794,9 +43788,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-    mounted: function mounted() {
-        console.log('resume mounted.');
-    }
+    mounted: function mounted() {}
 });
 
 /***/ }),
@@ -43914,9 +43906,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-    mounted: function mounted() {
-        console.log('resume mounted.');
-    }
+    mounted: function mounted() {}
 });
 
 /***/ }),
