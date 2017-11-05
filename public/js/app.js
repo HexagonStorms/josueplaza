@@ -975,14 +975,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vue__ = __webpack_require__(35);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_vue__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_vue_router__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Index_vue__ = __webpack_require__(52);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Index_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__components_Index_vue__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_Portfolio_vue__ = __webpack_require__(55);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_Portfolio_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__components_Portfolio_vue__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_Resume_vue__ = __webpack_require__(58);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_Resume_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__components_Resume_vue__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_Contact_vue__ = __webpack_require__(61);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_Contact_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__components_Contact_vue__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__routes__ = __webpack_require__(67);
 
 /**
  * First we will load all of this project's JavaScript dependencies which
@@ -996,11 +989,11 @@ __webpack_require__(11);
 
 
 
-
-
-
-
 __WEBPACK_IMPORTED_MODULE_0_vue___default.a.use(__WEBPACK_IMPORTED_MODULE_1_vue_router__["a" /* default */]);
+
+var router = new __WEBPACK_IMPORTED_MODULE_1_vue_router__["a" /* default */]({
+  routes: __WEBPACK_IMPORTED_MODULE_2__routes__["a" /* routes */]
+});
 
 // window.Vue = require('vue-devtools');
 /**
@@ -1012,20 +1005,8 @@ __WEBPACK_IMPORTED_MODULE_0_vue___default.a.use(__WEBPACK_IMPORTED_MODULE_1_vue_
 console.log('hello');
 
 var app = new __WEBPACK_IMPORTED_MODULE_0_vue___default.a({
-	el: '#app',
-	routes: [{
-		path: '/',
-		component: __WEBPACK_IMPORTED_MODULE_2__components_Index_vue___default.a
-	}, {
-		path: '/portfolio',
-		component: __WEBPACK_IMPORTED_MODULE_3__components_Portfolio_vue___default.a
-	}, {
-		path: '/resume',
-		component: __WEBPACK_IMPORTED_MODULE_4__components_Resume_vue___default.a
-	}, {
-		path: '/contact',
-		component: __WEBPACK_IMPORTED_MODULE_5__components_Contact_vue___default.a
-	}]
+  el: '#app',
+  router: router
 });
 
 /***/ }),
@@ -42827,7 +42808,7 @@ var staticRenderFns = [
             _vm._v(" "),
             _c("div", { staticClass: "panel-body" }, [
               _vm._v(
-                "\n                    I'm the component!\n                "
+                "\n                    I'm the index component!\n                "
               )
             ])
           ])
@@ -45834,6 +45815,41 @@ if (inBrowser && window.Vue) {
 
 /* harmony default export */ __webpack_exports__["a"] = (VueRouter);
 
+
+/***/ }),
+/* 65 */,
+/* 66 */,
+/* 67 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return routes; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_Index_vue__ = __webpack_require__(52);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_Index_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__components_Index_vue__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_Portfolio_vue__ = __webpack_require__(55);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_Portfolio_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__components_Portfolio_vue__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Resume_vue__ = __webpack_require__(58);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Resume_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__components_Resume_vue__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_Contact_vue__ = __webpack_require__(61);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_Contact_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__components_Contact_vue__);
+
+
+
+
+
+var routes = [{
+	path: '/',
+	component: __WEBPACK_IMPORTED_MODULE_0__components_Index_vue___default.a
+}, {
+	path: '/portfolio',
+	component: __WEBPACK_IMPORTED_MODULE_1__components_Portfolio_vue___default.a
+}, {
+	path: '/resume',
+	component: __WEBPACK_IMPORTED_MODULE_2__components_Resume_vue___default.a
+}, {
+	path: '/contact',
+	component: __WEBPACK_IMPORTED_MODULE_3__components_Contact_vue___default.a
+}];
 
 /***/ })
 /******/ ]);

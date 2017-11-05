@@ -6,7 +6,7 @@
                     <div class="panel-heading">Index Component</div>
 
                     <div class="panel-body">
-                        I'm the component!
+                        I'm the index component!
                     </div>
                 </div>
             </div>

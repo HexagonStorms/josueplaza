@@ -9,14 +9,13 @@ require('./bootstrap');
 
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-
-import Index from './components/Index.vue';
-import Portfolio from './components/Portfolio.vue';
-import Resume from './components/Resume.vue';
-import Contact from './components/Contact.vue';
+import { routes } from './routes';
 
 Vue.use(VueRouter);
 
+const router = new VueRouter({
+	routes
+});
 
 // window.Vue = require('vue-devtools');
 /**
@@ -29,22 +28,5 @@ console.log('hello');
 
 const app = new Vue({
     el: '#app',
-    routes: [
-		{ 
-			path: '/',
-			component: Index,
-		},
-		{ 
-			path: '/portfolio',
-			component: Portfolio,
-		},
-		{ 
-			path: '/resume',
-			component: Resume,
-		},
-		{ 
-			path: '/contact',
-			component: Contact,
-		}
-	]
+    router,
 });
