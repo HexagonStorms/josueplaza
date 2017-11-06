@@ -191,9 +191,14 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-12 footer text-center">
-                    <img class="footer-wolf" src="/img/white_wolf.png">
+            <div class="row footer">
+                <div class="col-md-12 text-center">
+                    <a class="social-icon" href="https://www.twitter.com/plazajosue"><i class="fa fa-twitter"></i></a>
+                    <a class="social-icon" href="mailto:mail@josueplaza.com"><i class="fa fa-envelope"></i></a>
+                    <a class="social-icon" href="https://www.github.com/hexagonstorms"><i class="fa fa-github"></i></a>
+                    <a class="social-icon" href="https://linkedin.com/in/josueplaza"><i class="fa fa-linkedin"></i></a>
+                </div>
+                <div class="col-md-12  text-center">
                     Copyright 2017 &copy; by Josue Plaza
                 </div>
             </div>
