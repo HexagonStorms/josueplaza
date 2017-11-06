@@ -16,7 +16,7 @@
         <div class="container-fluid previous-work">
             <div class="row previous-work-title">
                 <div class="col-md-8 col-md-offset-1">
-                    <h4>PREVIOUS WORK</h4>
+                    <h3 class="previous-work-text">PREVIOUS WORK</h3>
                 </div>
             </div>
             <div class="row site padding-bottom">

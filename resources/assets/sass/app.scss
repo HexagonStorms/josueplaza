@@ -122,6 +122,18 @@ body {
 .previous-work-title {
 	padding-bottom: 40px;
 }
+.previous-work-text {
+	margin-bottom: 0;
+}
+.previous-work-text:after {
+	background: rgba(0,0,0,.1);
+    height: 1px;
+    position: absolute;
+    left: 0;
+    width: 230px;
+    content: "";
+    bottom: -20px;
+}
 .mockup-img {
 	width: 100%;
 	padding-bottom: 20px;
