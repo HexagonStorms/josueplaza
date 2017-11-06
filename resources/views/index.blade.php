@@ -8,6 +8,17 @@
         <title>Josue Plaza | Full Stack Developer</title>
         <link type="text/css" rel="stylesheet" href="/css/app.css">
         <link rel="icon" type="image/png" sizes="16x16" href="/img/jp_logo_grey.png">
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-84658253-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-84658253-1');
+        </script>
+
     </head>
     <body>
         <div id='app'>
