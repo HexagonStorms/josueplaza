@@ -191,6 +191,12 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-12 footer text-center">
+                    <img class="footer-wolf" src="/img/white_wolf.png">
+                    Copyright 2017 &copy; by Josue Plaza
+                </div>
+            </div>
         </div>
     </div>
 </template>

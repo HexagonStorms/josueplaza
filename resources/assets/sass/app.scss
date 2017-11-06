@@ -8,6 +8,8 @@
 // Bootstrap
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
+// Font Awesome
+@import "node_modules/font-awesome/scss/font-awesome";
 /* ----------------------------------------------------------------- */
 /* GLOBAL */
 /* ----------------------------------------------------------------- */
@@ -55,7 +57,17 @@ body {
 	border: none;
 	z-index: 20;
 }
-
+.footer {
+	padding: 140px 25px 15px 25px;
+	background-color: black;
+	// height: 200px;
+	backgound-image: url('https://n6-img-fp.akamaized.net/free-vector/polygonal-technological-elements-on-a-transparent-background_1035-7109.jpg?size=338&ext=jpg');
+}
+.footer-wolf {
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+}
 /* ----------------------------------------------------------------- */
 /* INDEX */
 /* ----------------------------------------------------------------- */
@@ -81,6 +93,7 @@ body {
 /* ----------------------------------------------------------------- */
 /* PORTFOLIO */
 /* ----------------------------------------------------------------- */
+
 #portfolio-container {
 	position: absolute;
 	top: 0;
@@ -120,6 +133,47 @@ body {
 }
 .padding-bottom {
 	padding-bottom: 20px;
+}
+
+/* ----------------------------------------------------------------- */
+/* CONTACT */
+/* ----------------------------------------------------------------- */
+
+#contact-container {
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
+#contact-banner {
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	height: 500px;
+	background-image: url('/img/sa.png');
+	background-size: cover;
+    background-position: center 0%;
+}
+.contact-text {
+	height: 500px;
+}
+.contact-headline {
+	font-size: 3em;
+}
+.contact-subheadline {
+	font-size: 2em;
+}
+.social-media-container {
+	margin-top: 60px;
+	text-align: center;
+	margin-bottom: 60px;
+	// height: 200px;
+}
+.social-icon {
+	// border: 1px solid black;
 }
 /* ----------------------------------------------------------------- */
 /* ANIMATIONS */
