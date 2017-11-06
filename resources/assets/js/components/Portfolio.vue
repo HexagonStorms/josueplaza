@@ -19,7 +19,7 @@
                     <h4>PREVIOUS WORK</h4>
                 </div>
             </div>
-            <div class="row site">
+            <div class="row site padding-bottom">
                 <div class="col-md-12 text-center site-title">
                     <h2>The Parlevel Store</h2>
                 </div>
@@ -64,7 +64,7 @@
                 </div>
             </div>
             
-            <div class="row site">
+            <div class="row site padding-bottom">
                 <div class="col-md-12 text-center site-title">
                     <h2>Pro Players Online</h2>
                 </div>
@@ -109,7 +109,7 @@
                 </div>
             </div>
             
-            <div class="row site">
+            <div class="row site padding-bottom">
                 <div class="col-md-12 text-center site-title">
                   <h2>Parlevel Business Feed</h2>  
                 </div> 
@@ -152,7 +152,7 @@
                 </div>
             </div>
             
-            <div class="row site">
+            <div class="row site padding-bottom">
                 <div class="col-md-12 text-center site-title">
                     <h2>Community Helpers</h2>
                 </div>

@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="row mobile-padding">
-                <div class="col-md-4 col-md-offset-2 mobile-text">
+                <div class="col-md-5 col-md-offset-2 mobile-text">
                     As a designer and developer, I understand that the perfect web application should look good and work even better. Alongside my co-workers, I construct beautiful solutions for problems. In short, I craft robust online experiences.
                 </div>
             </div>

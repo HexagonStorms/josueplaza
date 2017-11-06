@@ -8376,7 +8376,7 @@ body {
   }
 
   .mobile-padding {
-    padding: 0 10px;
+    padding: 0 20px;
   }
 
   .mobile-text {
@@ -8428,7 +8428,7 @@ body {
 
 .headline {
   margin-top: 122px;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: bold;
   line-height: 1em;
 }
@@ -8482,8 +8482,8 @@ body {
   margin-bottom: 25px;
 }
 
-.site {
-  min-height: 580px;
+.padding-bottom {
+  padding-bottom: 20px;
 }
 
 /* ----------------------------------------------------------------- */
