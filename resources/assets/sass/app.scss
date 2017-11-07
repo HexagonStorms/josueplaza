@@ -15,28 +15,25 @@
 /* ----------------------------------------------------------------- */
 
 body {
-	background-color: #f9f5f4;
+	background-color: $white-pink;
 	font-family: 'Raleway', sans-serif;
 }
 #app {
-	background-color: #f9f5f4;
+	background-color: $white-pink;
 	position: relative;
 }
-@media (max-width: 767px) {
+@media (max-width: 993px) {
 	#brand-logo {
 		width: 36px;
 	}
 	.navbar-default {
-		background-color: #f9f5f4; 
+		background-color: $white-pink; 
 	}
 	.mobile-padding {
 		padding: 0 20px;
 	}
 	.mobile-text {
-		color: black;
-		padding-top: 50px;
-		font-size: 1em;
-		font-weight: bold;
+		padding-right: 50px;
 	}
 }
 @media (min-width: 768px) {
@@ -59,7 +56,7 @@ body {
 }
 .footer {
 	padding: 15px 25px 15px 25px;
-	background-color: #f9f5f4;
+	background-color: $white-pink;
 	// height: 200px;
 	backgound-image: url('https://n6-img-fp.akamaized.net/free-vector/polygonal-technological-elements-on-a-transparent-background_1035-7109.jpg?size=338&ext=jpg');
 }
@@ -80,11 +77,29 @@ body {
 	bottom: 0;
 	height: 100vh;
 	background-image: url('/img/workspace_2400x1600c.jpg');
-	background-size: cover;
     background-position: center 0%;
 }
+@media (min-width: 869px) {
+	#index-container {
+		background-size: cover;
+	}
+}
+@media (max-width: 868px) {
+	#index-container {
+		background-size: auto;
+	}
+}
+@media (min-width: 1190px) {
+	.headline {
+		margin-top: 122px;
+	}
+}
+@media (max-width: 1189px) {
+	.headline {
+		margin-top: 72px; 
+	}
+}
 .headline {
-	margin-top: 122px;
 	font-size: 2em;
 	font-weight: bold;
 	line-height: 1em;
@@ -117,7 +132,7 @@ body {
 	padding-top: 40px;
 }
 .site:nth-child(odd) {
-	background-color: #e8e8e8;
+	background-color: $light-grey;
 }
 .previous-work-title {
 	padding-bottom: 40px;
