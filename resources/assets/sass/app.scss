@@ -28,11 +28,11 @@
 }
 .btn-alt {
 	border-radius: 2px;
-	background-color: #d0d0d0;
+	background-color: #aaa;
 	color: white;
 	&:hover {
 		color: white;
-		background-color: darken(#d0d0d0, 15%);
+		background-color: darken(#aaa, 15%);
 	}
 }
 .margin-top {
