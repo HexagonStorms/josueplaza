@@ -20,6 +20,7 @@
     "vue-devtools": "^3.1.9"
   },
   "dependencies": {
+    "devicon": "^2.0.0",
     "vue-router": "^3.0.1"
   }
 }

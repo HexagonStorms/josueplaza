@@ -35,31 +35,76 @@
                     </p>
                     <div class="row">
                         <div class="col-md-6">
-                            <h6 class="portfolio-subheader"><b>Technologies - FRONTEND</b></h6>
-                            <ul class="portfolio-list">
-                                <li>Javascript</li>
-                                <li>HTML5</li>
-                                <li>CSS3</li>
-                                <LI>SASS</LI>
-                                <LI>Webpack/Gulp</LI>
-                                <li>AngularJS</li>
-                                <li>Google Maps API</li>
-                            </ul>
+                            <h6 class="portfolio-subheader"><b>FRONTEND</b></h6>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Javascript</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-javascript-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">HTML5</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-html5-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">CSS3</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-css3-plain-wordmark large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">SASS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-sass-original large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Webpack + Gulp</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-gulp-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">AngularJS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-angularjs-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Google Maps API</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="fa fa-google large-icon"></i></div>
+                            </div>
                         </div>
                         <div class="col-md-6">
-                            <h6 class="portfolio-subheader"><b>Technologies - BACKEND</b></h6>
-                            <ul class="portfolio-list">
-                                <li>PHP</li>
-                                <li>MySQL</li>
-                                <li>Laravel</li>
-                                <li>ShipStation API</li>
-                                <li>BrainTree (PayPal) API</li>
-                                <LI>Avalara AvaTax API</LI>
-                            </ul>
+                            <h6 class="portfolio-subheader"><b>BACKEND</b></h6>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">PHP</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-php-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">MySQL</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-mysql-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Laravel</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-laravel-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">ShipStation API</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="fa fa-truck large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">BrainTree (PayPal) API</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="fa fa-paypal large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Avalara AvaTax API</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="fa fa-credit-card large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <a href="https://parlevelstore.com"><btn class="btn btn-main">Live Site <i class="fa fa-external-link" aria-hidden="true"></i></btn></a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-md-12">
-                        <a href="https://parlevelstore.com">Live Site</a>
                     </div>
                 </div>
             </div>
@@ -80,36 +125,70 @@
                     </p>
                     <div class="row">
                         <div class="col-md-6">
-                            <h6 class="portfolio-subheader"><b>Technologies - FRONTEND</b></h6>
-                            <ul class="portfolio-list">
-                                <li>Javascript</li>
-                                <li>HTML5</li>
-                                <li>CSS3</li>
-                                <LI>SASS</LI>
-                                <LI>Webpack/Gulp</LI>
-                                <li>AngularJS</li>
-                            </ul>
+                            <h6 class="portfolio-subheader"><b>FRONTEND</b></h6>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Javascript</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-javascript-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">HTML5</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-html5-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">CSS3</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-css3-plain-wordmark large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">SASS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-sass-original large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Webpack + Gulp</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-gulp-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">AngularJS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-angularjs-plain large-icon"></i></div>
+                            </div>
                         </div>
                         <div class="col-md-6">
-                            <h6 class="portfolio-subheader"><b>Technologies - BACKEND</b></h6>
-                            <ul class="portfolio-list">
-                                <li>PHP</li>
-                                <li>MySQL</li>
-                                <li>Laravel</li>
-                                <LI>Twitch API (Helix version)</LI>
-                            </ul>
+                            <h6 class="portfolio-subheader"><b>BACKEND</b></h6>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">PHP</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-php-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">MySQL</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-mysql-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Laravel</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-laravel-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Twitch API</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="fa fa-twitch large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row margin-top">
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <a href="http://www.proplayers.online"><btn class="btn btn-main">Live Site <i class="fa fa-external-link" aria-hidden="true"></i></btn></a>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <a href="https://github.com/hexagonstorms/proplayers"><btn class="btn btn-alt">Github <i class="fa fa-github" aria-hidden="true"></i></btn></a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-md-12">
-                        <a href="http://www.proplayers.online">Live Site</a>
-                    </div>
-                    <div class="col-md-12">
-                        <a href="https://github.com/hexagonstorms/proplayers">Github Repository</a>
                     </div>
                 </div>
             </div>
             
-            <div class="row site padding-bottom">
+            <div class="row site">
                 <div class="col-md-12 text-center site-title">
                   <h2>Parlevel Business Feed</h2>  
                 </div> 
@@ -120,34 +199,73 @@
                     <p>
                         Parlevel’s Business Feed sends everything you need to know about your vending, micro market, or OCS operation directly to your mobile phone. Receive push notifications for route progress, service ticket status, customer feedback, and more!
                     </p>
+                    
                     <div class="row">
                         <div class="col-md-6">
-                            <h6 class="portfolio-subheader"><b>Technologies - FRONTEND</b></h6>
-                            <ul class="portfolio-list">
-                                <li>HTML5</li>
-                                <li>CSS3</li>
-                                <LI>SASS</LI>
-                                <li>Javascript</li>
-                                <LI>Webpack/Gulp</LI>
-                                <li>Ionic</li>
-                                <li>Angular 2 + TypeScript</li>
-                            </ul>
+                            <h6 class="portfolio-subheader"><b>FRONTEND</b></h6>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Javascript</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-javascript-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">HTML5</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-html5-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">CSS3</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-css3-plain-wordmark large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">SASS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-sass-original large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Webpack + Gulp</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-gulp-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">AngularJS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-angularjs-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">TypeScript</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-typescript-plain large-icon"></i></div>
+                            </div>
                         </div>
                         <div class="col-md-6">
-                            <h6 class="portfolio-subheader"><b>Technologies - BACKEND</b></h6>
-                            <ul class="portfolio-list">
-                                <li>PHP</li>
-                                <li>MySQL</li>
-                                <li>Laravel</li>
-                                <li>Cordova</li>
-                            </ul>
+                            <h6 class="portfolio-subheader"><b>BACKEND</b></h6>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">PHP</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-php-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">MySQL</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-mysql-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Laravel</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-laravel-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Apache Cordova</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-apache-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row margin-top padding-bottom">
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <a href="https://itunes.apple.com/us/app/parlevel-business-feed/id1224221361?mt=8m"><btn class="btn btn-main">iOS <i class="fa fa-apple" aria-hidden="true"></i></btn></a>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <a href="https://play.google.com/store/apps/details?id=com.parlevelsystems.BusinessFeed&hl=en"><btn class="btn btn-alt">Android <i class="fa fa-android" aria-hidden="true"></i></btn></a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div>
-                        <a href="https://itunes.apple.com/us/app/parlevel-business-feed/id1224221361?mt=8m">Apple iOS Listing</a>
-                    </div>
-                    <div>
-                        <a href="https://play.google.com/store/apps/details?id=com.parlevelsystems.BusinessFeed&hl=en">Google Play Android Listing</a>
                     </div>
                 </div>
             </div>
@@ -165,29 +283,52 @@
                     </p>
                     <div class="row">
                         <div class="col-md-6">
-                            <h6 class="portfolio-subheader"><b>Technologies - FRONTEND</b></h6>
-                            <ul class="portfolio-list">
-                                <li>Javascript</li>
-                                <li>HTML5</li>
-                                <li>CSS3</li>
-                                <li>Bootstrap</li>
-                                <li>jQuery</li>
-                            </ul>
+                            <h6 class="portfolio-subheader"><b>FRONTEND</b></h6>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Javascript</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-javascript-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">HTML</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-html5-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">CSS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-css3-plain-wordmark large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">jQuery</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-jquery-plain large-icon"></i></div>
+                            </div>
                         </div>
                         <div class="col-md-6">
-                            <h6 class="portfolio-subheader"><b>Technologies - BACKEND</b></h6>
-                            <ul class="portfolio-list">
-                                <li>PHP</li>
-                                <li>MySQL</li>
-                                <li>Laravel</li>
-                            </ul>
+                            <h6 class="portfolio-subheader"><b>BACKEND</b></h6>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">PHP</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-php-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">MySQL</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-mysql-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Laravel</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-laravel-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row margin-top">
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <a href="http://community-helpers.com/"><btn class="btn btn-main">Live Site <i class="fa fa-external-link" aria-hidden="true"></i></btn></a>
+                                </div>
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <a href="https://github.com/fpigeonjr/community-helpers"><btn class="btn btn-alt">Github <i class="fa fa-github" aria-hidden="true"></i></btn></a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-md-12">
-                        <a href="http://community-helpers.com/">Live Site</a>
-                    </div>
-                    <div class="col-md-12">
-                        <a href="https://github.com/fpigeonjr/community-helpers">Github Repository</a>
                     </div>
                 </div>
             </div>
