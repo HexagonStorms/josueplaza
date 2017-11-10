@@ -3,7 +3,7 @@
         <div id="particles-js"></div>
         <div class="container-fluid portfolio-banner">
             <div class="row">
-                <div class="col-md-6 col-md-offset-1 col-sm-12 col-xs-12 headline">
+                <div class="col-md-6 col-md-offset-1 col-sm-12 col-xs-12 portfolio-headline">
                     Fast &amp; fluent.
                 </div>
             </div>

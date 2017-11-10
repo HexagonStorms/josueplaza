@@ -126,7 +126,10 @@ body {
 		margin-top: 72px; 
 	}
 }
-.headline {
+.portfolio-headline {
+	margin-top: 100px;
+}
+.headline, .portfolio-headline {
 	font-size: 2em;
 	font-weight: bold;
 	line-height: 1em;
@@ -150,13 +153,13 @@ body {
 	right: 0;
 	bottom: 0;
 	background-color: #d2d2d2;
-	height: 500px;
+	height: 300px;
 }
 .large-icon {
 	font-size: 3rem;
 }
 .portfolio-banner {
-	height: 500px;
+	height: 300px;
 }
 .previous-work {
 	padding-top: 40px;
