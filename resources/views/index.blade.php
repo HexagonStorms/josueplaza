@@ -38,7 +38,7 @@
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="#/">HOME</a></li>
-                        <!-- <li><a href="#/resume">RESUME</a></li> -->
+                        <li><a href="#/resume">RESUME</a></li>
                         <li><a href="#/portfolio">PORTFOLIO</a></li>
                         <!-- <li><a href="#/contact">CONTACT</a></li> -->
                     </ul>

@@ -136,10 +136,27 @@ body {
 }
 
 /* ----------------------------------------------------------------- */
+/* RESUME */
+/* ----------------------------------------------------------------- */
+.resume-banner {
+	background-color: #caffed;
+	height: 340px;
+}
+.resume-img {
+	width: 150px;
+	display: inline-block;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+}
+
+/* ----------------------------------------------------------------- */
 /* PORTFOLIO */
 /* ----------------------------------------------------------------- */
 
-#portfolio-container {
+#portfolio-container, #resume-container {
 	position: absolute;
 	top: 0;
 	right: 0;
