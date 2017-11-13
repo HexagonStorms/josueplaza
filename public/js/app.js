@@ -48654,6 +48654,14 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {}
@@ -48674,9 +48682,11 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { attrs: { id: "resume-container" } }, [
-      _c("div", { staticClass: "container-fluid resume-banner" }, [
-        _c("div", { staticClass: "row " }, [
+    return _c(
+      "div",
+      { staticClass: "container-fluid", attrs: { id: "resume-container" } },
+      [
+        _c("section", { staticClass: "resume-banner row" }, [
           _c(
             "div",
             {
@@ -48694,7 +48704,7 @@ var staticRenderFns = [
           _c("div", { staticClass: "col-md-6 col-sm-12 col-xs-12" }, [
             _c("div", { staticClass: "row headline" }, [
               _c("div", { staticClass: "col-xs-12" }, [
-                _vm._v("\n                        Resume\n                    ")
+                _vm._v("\n                    Resume\n                ")
               ])
             ]),
             _vm._v(" "),
@@ -48702,21 +48712,32 @@ var staticRenderFns = [
               _c("div", { staticClass: "col-xs-12" }, [
                 _c("p", [
                   _vm._v(
-                    "\n                            Hey there, my name is Josue Plaza and I am a full stack developer with more than three years' experience. I have designed and built rich, user-friendly interfaces for web projects of all sizes.\n                        "
+                    "\n                        Hey there, my name is Josue Plaza and I am a full stack developer with more than three years' experience. I have designed and built rich, user-friendly interfaces for web projects of all sizes.\n                    "
                   )
                 ]),
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
-                    "\n                            My hobbies include traveling, playing music, and watching professional eSports (mostly League of Legends & Overwatch). \n                        "
+                    "\n                        My hobbies include traveling, playing music, and watching professional eSports (mostly League of Legends & Overwatch). \n                    "
                   )
                 ])
               ])
             ])
           ])
-        ])
-      ])
-    ])
+        ]),
+        _vm._v(" "),
+        _c("section", { staticClass: "row resume-experience" }, [
+          _vm._v("\n        // experience LEFT - skills RIGHT\n    ")
+        ]),
+        _vm._v(" "),
+        _c("section", [_vm._v("\n        // parallax divider\n    ")]),
+        _vm._v(" "),
+        _c("section", { staticClass: "row resume-education" }, [
+          _vm._v("\n        // LEFT - education, - RIGHT - skillsets\n    ")
+        ]),
+        _vm._v("\n    // footer\n")
+      ]
+    )
   }
 ]
 render._withStripped = true
