@@ -23,15 +23,15 @@
             </div>
         </section>
         <section class="row resume-experience">
-            // experience LEFT - skills RIGHT
+            <!-- // experience LEFT - skills RIGHT -->
         </section>
         <section>
-            // parallax divider
+            <!-- // parallax divider -->
         </section>
         <section class="row resume-education">
-            // LEFT - education, - RIGHT - skillsets
+            <!-- // LEFT - education, - RIGHT - skillsets -->
         </section>
-        // footer
+        <!-- // footer/ -->
     </div>
 </template>
 
