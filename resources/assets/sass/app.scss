@@ -17,7 +17,10 @@
 /* ----------------------------------------------------------------- */
 /* GLOBAL */
 /* ----------------------------------------------------------------- */
-
+.subheadline {
+	width: 230px;
+	margin-top: 5px;
+}
 .btn-main {
 	border-radius: 2px;
 	background-color: #5fd3ff;
@@ -159,20 +162,20 @@ body {
 	position: relative; padding: 0 1em 2em 2.4em;
 }
 .event:before {
-	content : ""; position: absolute; top: 10px; bottom: -10px; left: 12px; width: 4px; background: rgba(255, 255, 255, 0.5);
+	content : ""; position: absolute; top: 10px; bottom: -10px; left: 12px; width: 4px; background: #c1bfff;
 }
 .event:after {
-	content : ""; position: absolute; top: 6px; left: 7px; width: 14px; height: 14px; border-radius: 50%; background: #fff;
+	content : ""; position: absolute; top: 6px; left: 7px; width: 14px; height: 14px; border-radius: 50%; background: $text-color;
 }
 .event:nth-of-type(2):after {
-	background-color: #85B3CB;
+	background-color: $text-color;
 }
 .event h2 {
 	margin-left: .6em; margin-bottom: .4em; font-size: 1.3em; font-weight: 400; letter-spacing: 0;
 }
 .event h2 + p i,
 .event h2 + p img {
-	display: block; text-align: center; font-size: 22px; font-weight: bold; position: absolute; top: -14px; left: -10px; width: 52px; line-height: 52px; margin: 0;  z-index: 120; color: #fff; background: #85B3CB; border-radius: 50%;
+	display: block; text-align: center; font-size: 22px; font-weight: bold; position: absolute; top: -14px; left: -10px; width: 52px; line-height: 52px; margin: 0;  z-index: 120; color: #fff; background: $text-color; border-radius: 50%;
 }
 .event h2 + p i:before {
 	margin:0;
@@ -181,10 +184,10 @@ body {
 	padding: 10px; border-radius: 4px;
 }
 .event h3 {
-	display: inline-block; position: relative; padding: 3px 8px; font-size: 11px; line-height: 1.3; font-weight: 400; letter-spacing: 0; margin: 0 0 1.5em 0; text-transform: uppercase; color: #fff; background: #ad9a88;
+	display: inline-block; position: relative; padding: 3px 8px; font-size: 11px; line-height: 1.3; font-weight: 400; letter-spacing: 0; margin: 0 0 1.5em 0; text-transform: uppercase; color: #fff; background: $text-color;
 }
 .event h3:before {
-	content: ""; position: absolute; display: block; bottom: 0; border: 10px solid #85B3CB; z-index: -1; left: -1.2em; border-right-width: 10px; border-left-color: transparent 	!important;
+	content: ""; position: absolute; display: block; bottom: 0; border: 10px solid $text-color; z-index: -1; left: -1.2em; border-right-width: 10px; border-left-color: transparent 	!important;
 }
 .event:last-of-type {
 	padding-bottom: 0; margin-bottom: 3em;
@@ -196,7 +199,7 @@ body {
 	font-size: 14px; font-weight: 700; text-transform: uppercase; margin: 0 0 .2em 0; padding: 0;
 }
 .event h5 {
-	margin: 0; padding: 0 0 .3em 0; font-size: 11px; font-weight: 400; letter-spacing: 1px; text-transform: uppercase; color: #85B3CB;
+	margin: 0; padding: 0 0 .3em 0; font-size: 11px; font-weight: 400; letter-spacing: 1px; text-transform: uppercase; color: $text-color;
 }
 .event p {
 	margin: .6em 0 .2em 0; font-size: 15px;
@@ -228,6 +231,9 @@ body {
 .large-icon {
 	font-size: 3rem;
 }
+.huge-icon {
+	font-size: 5rem;
+}
 .portfolio-banner {
 	height: 300px;
 }
@@ -243,7 +249,7 @@ body {
 .previous-work-text {
 	margin-bottom: 0;
 }
-.previous-work-text:after, .subheadline {
+.previous-work-text:after {
 	background: rgba(0,0,0,.1);
     height: 1px;
     position: absolute;

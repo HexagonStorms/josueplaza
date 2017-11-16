@@ -24,10 +24,8 @@
         </section>
         <section class="row resume-experience">
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2">
-                    <h3>WORK EXPERIENCE</h3>
-                <div class="col-md-11 col-md-offset-1">
-                    
-                </div>
+                    <h3 class="text-center">WORK EXPERIENCE</h3>
+                    <hr class="subheadline">
                 <div class="event">
                     <p>
                         <i class="pe-7s-ribbon"></i>
@@ -84,12 +82,9 @@
                 </div>
                 <a href="media/JosuePlaza_FullStackWebDeveloper_Resume.pdf"><button type="button" class="btn btn-resume">Download Resume <i class="fa fa-file-pdf-o" aria-hidden="true"></i></button></a>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 text-center">
-                <div class="ribbon-wrapper medium">
-                    <span class="">
-                        <span>SKILLS</span>
-                    </span>
-                </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5">
+                <h3 class="text-center">SKILLS</h3>
+                <hr class="subheadline">
                 <ul class="skills">
                     <li>AngularJS</li>
                     <li>Angular (2/4)</li>

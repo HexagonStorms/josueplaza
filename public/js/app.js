@@ -48783,11 +48783,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {}
@@ -48857,9 +48852,11 @@ var staticRenderFns = [
             "div",
             { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2" },
             [
-              _c("h3", [_vm._v("WORK EXPERIENCE")]),
+              _c("h3", { staticClass: "text-center" }, [
+                _vm._v("WORK EXPERIENCE")
+              ]),
               _vm._v(" "),
-              _c("div", { staticClass: "col-md-11 col-md-offset-1" }),
+              _c("hr", { staticClass: "subheadline" }),
               _vm._v(" "),
               _c("div", { staticClass: "event" }, [
                 _c("p", [_c("i", { staticClass: "pe-7s-ribbon" })])
@@ -48996,117 +48993,111 @@ var staticRenderFns = [
             ]
           ),
           _vm._v(" "),
-          _c(
-            "div",
-            {
-              staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-5 text-center"
-            },
-            [
-              _c("div", { staticClass: "ribbon-wrapper medium" }, [
-                _c("span", {}, [_c("span", [_vm._v("SKILLS")])])
-              ]),
+          _c("div", { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-5" }, [
+            _c("h3", { staticClass: "text-center" }, [_vm._v("SKILLS")]),
+            _vm._v(" "),
+            _c("hr", { staticClass: "subheadline" }),
+            _vm._v(" "),
+            _c("ul", { staticClass: "skills" }, [
+              _c("li", [_vm._v("AngularJS")]),
               _vm._v(" "),
-              _c("ul", { staticClass: "skills" }, [
-                _c("li", [_vm._v("AngularJS")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Angular (2/4)")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Back-End")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Bootstrap")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("CakePHP")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Cordova")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("CSS")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("eCommerce Business")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("HTML")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Email Marketing & Templating")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Firebase")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Front-End")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Git")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Implementing APIs")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Ionic")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("JavaScript")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("jQuery")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("JSON")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Laravel")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Linux")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Mobile Development")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("MVC Frameworks")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("MySQL")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("NPM")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("NodeJS")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Payment Gateways")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("PCI Compliance")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("PHP")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("SASS")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("TypeScript")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Webpack")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Wordpress")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("XML")])
-              ]),
+              _c("li", [_vm._v("Angular (2/4)")]),
               _vm._v(" "),
-              _c("div", { staticClass: "ribbon-wrapper medium text-center" }, [
-                _c("span", [_c("span", [_vm._v("DESIGN")])])
-              ]),
+              _c("li", [_vm._v("Back-End")]),
               _vm._v(" "),
-              _c("ul", { staticClass: "skills" }, [
-                _c("li", [_vm._v("Photoshop")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Premiere Pro")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("UI/UX")])
-              ]),
+              _c("li", [_vm._v("Bootstrap")]),
               _vm._v(" "),
-              _c("div", { staticClass: "ribbon-wrapper medium text-center" }, [
-                _c("span", [_c("span", [_vm._v("AUDIO")])])
-              ]),
+              _c("li", [_vm._v("CakePHP")]),
               _vm._v(" "),
-              _c("ul", { staticClass: "skills" }, [
-                _c("li", [_vm._v("Music Production")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Adobe Audition")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Logic Pro")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Ableton Live")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("FL Studio")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Native Instruments")]),
-                _vm._v(" "),
-                _c("li", [_vm._v("Waves Audio Plugins")])
-              ])
-            ]
-          )
+              _c("li", [_vm._v("Cordova")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("CSS")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("eCommerce Business")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("HTML")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Email Marketing & Templating")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Firebase")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Front-End")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Git")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Implementing APIs")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Ionic")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("JavaScript")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("jQuery")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("JSON")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Laravel")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Linux")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Mobile Development")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("MVC Frameworks")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("MySQL")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("NPM")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("NodeJS")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Payment Gateways")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("PCI Compliance")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("PHP")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("SASS")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("TypeScript")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Webpack")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Wordpress")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("XML")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "ribbon-wrapper medium text-center" }, [
+              _c("span", [_c("span", [_vm._v("DESIGN")])])
+            ]),
+            _vm._v(" "),
+            _c("ul", { staticClass: "skills" }, [
+              _c("li", [_vm._v("Photoshop")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Premiere Pro")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("UI/UX")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "ribbon-wrapper medium text-center" }, [
+              _c("span", [_c("span", [_vm._v("AUDIO")])])
+            ]),
+            _vm._v(" "),
+            _c("ul", { staticClass: "skills" }, [
+              _c("li", [_vm._v("Music Production")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Adobe Audition")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Logic Pro")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Ableton Live")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("FL Studio")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Native Instruments")]),
+              _vm._v(" "),
+              _c("li", [_vm._v("Waves Audio Plugins")])
+            ])
+          ])
         ]),
         _vm._v(" "),
         _c("section"),
