@@ -48783,6 +48783,186 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {}
@@ -48796,315 +48976,674 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c(
+    "div",
+    { staticClass: "container-fluid", attrs: { id: "resume-container" } },
+    [
+      _vm._m(0),
+      _vm._v(" "),
+      _c("section", { staticClass: "row resume-experience" }, [
+        _vm._m(1),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-5" }, [
+          _c("h3", { staticClass: "text-center" }, [_vm._v("LANGUAGES")]),
+          _vm._v(" "),
+          _c("hr", { staticClass: "subheadline" }),
+          _vm._v(" "),
+          _vm._m(2),
+          _vm._v(" "),
+          _vm._m(3),
+          _vm._v(" "),
+          _vm._m(4),
+          _vm._v(" "),
+          _vm._m(5),
+          _vm._v(" "),
+          _vm._m(6),
+          _vm._v(" "),
+          _vm._m(7),
+          _vm._v(" "),
+          _vm._m(8),
+          _vm._v(" "),
+          _vm._m(9),
+          _vm._v(" "),
+          _vm._m(10),
+          _vm._v(" "),
+          _vm._m(11),
+          _vm._v(" "),
+          _c("h3", { staticClass: "text-center" }, [_vm._v("TECHNOLOGIES")]),
+          _vm._v(" "),
+          _c("hr", { staticClass: "subheadline" }),
+          _vm._v(" "),
+          _vm._m(12),
+          _vm._v(" "),
+          _vm._m(13),
+          _vm._v(" "),
+          _vm._m(14),
+          _vm._v(" "),
+          _vm._m(15),
+          _vm._v(" "),
+          _vm._m(16),
+          _vm._v(" "),
+          _c("div", { staticClass: "row right-entry" }, [
+            _vm._m(17),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-md-2" }, [
+              _c("div", { staticClass: "icon-svg" }, [
+                _c("svg", { attrs: { viewBox: "0 0 128 128" } }, [
+                  _c("path", {
+                    attrs: {
+                      fill: "#35495e",
+                      d:
+                        "m-1.85e-7 8.9337 49.854 0.1586 14.299 24.415 14.3-24.415 49.547-0.1577-63.834 110.14zm126.98 0.6374-24.36 0.0207-38.476 66.052-38.453-66.052-24.749-0.0194 63.211 107.89zm-25.14-0.008-22.749 0.1676-14.938 25.033-14.938-25.033-22.794-0.1679l37.731 64.476z"
+                    }
+                  })
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+              _vm._v("1 year")
+            ])
+          ]),
+          _vm._v(" "),
+          _vm._m(18),
+          _vm._v(" "),
+          _vm._m(19),
+          _vm._v(" "),
+          _vm._m(20)
+        ])
+      ]),
+      _vm._v(" "),
+      _c("section", { staticClass: "row parallax-divider" }),
+      _vm._v(" "),
+      _vm._m(21),
+      _vm._v(" "),
+      _vm._m(22)
+    ]
+  )
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "container-fluid", attrs: { id: "resume-container" } },
-      [
-        _c("section", { staticClass: "resume-banner row" }, [
-          _c(
-            "div",
-            {
-              staticClass:
-                "col-md-3 col-md-offset-1 col-sm-12 col-xs-12 text-center headline"
-            },
-            [
-              _c("img", {
-                staticClass: "resume-img",
-                attrs: { src: "/img/pikespeak.jpg" }
-              })
-            ]
-          ),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-md-6 col-sm-12 col-xs-12" }, [
-            _c("div", { staticClass: "row headline" }, [
-              _c("div", { staticClass: "col-xs-12" }, [
-                _vm._v("\n                    Resume\n                ")
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "row" }, [
-              _c("div", { staticClass: "col-xs-12" }, [
-                _c("p", [
-                  _vm._v(
-                    "\n                        Hey there, my name is Josue Plaza and I am a full stack developer with more than three years' experience. I have designed and built rich, user-friendly interfaces for web projects of all sizes.\n                    "
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", [
-                  _vm._v(
-                    "\n                        My hobbies include traveling, playing music, and watching professional eSports (mostly League of Legends & Overwatch). \n                    "
-                  )
-                ])
-              ])
-            ])
+    return _c("section", { staticClass: "resume-banner row" }, [
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-md-3 col-md-offset-1 col-sm-12 col-xs-12 text-center headline"
+        },
+        [
+          _c("img", {
+            staticClass: "resume-img",
+            attrs: { src: "/img/pikespeak.jpg" }
+          })
+        ]
+      ),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-6 col-sm-12 col-xs-12" }, [
+        _c("div", { staticClass: "row headline" }, [
+          _c("div", { staticClass: "col-xs-12" }, [
+            _vm._v("\n                        Resume\n                    ")
           ])
         ]),
         _vm._v(" "),
-        _c("section", { staticClass: "row resume-experience" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xs-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                            Hey there, my name is Josue Plaza and I am a full stack developer with more than three years' experience. I have designed and built rich, user-friendly interfaces for web projects of all sizes.\n                        "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                            My hobbies include traveling, playing music, and watching professional eSports (mostly League of Legends & Overwatch). \n                        "
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2" },
+      [
+        _c("h3", { staticClass: "text-center" }, [_vm._v("EXPERIENCE")]),
+        _vm._v(" "),
+        _c("hr", { staticClass: "subheadline" }),
+        _vm._v(" "),
+        _c("div", { staticClass: "event" }, [
+          _c("p", [_c("i", { staticClass: "pe-7s-ribbon" })])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "event" }, [
+          _c("h3", [_vm._v("October 2016 - Present")]),
+          _vm._v(" "),
+          _c("h4", [_vm._v("Full Stack Web Developer")]),
+          _vm._v(" "),
+          _c("h5", [_vm._v("Parlevel Systems")]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-lg-left" }, [
+            _vm._v(
+              "At Parlevel, I code back-end features in PHP on top of the Laravel framework utilizing the following technologies: HTML, CSS, PHP, MySQL, JavaScript, AngularJS, Laravel, and more. Responsibilities include (but are not limited to): systems analysis, code creation, testing, build/release technical documentation and customer technical support. My code is designed with responsive web design techniques and ran across a wide range of browsers and Devices."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "event" }, [
+          _c("h3", [_vm._v("July 2016 - October 2016")]),
+          _vm._v(" "),
+          _c("h4", [_vm._v("Web Development TA")]),
+          _vm._v(" "),
+          _c("h5", [_vm._v("The University of Texas at Austin")]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-lg-left" }, [
+            _vm._v(
+              "For one cohort, I assisted students in understanding the following languages: Git, HTML, CSS, JavaScript, Laravel, NodeJS, MySQL, PHP, and more.\u2028 I helped teach students coding fundamentals such as clean code, informative comments, syntax standards, and best tools for programming. I oversaw student web application projects and assisted students with stuck points by guiding them to solutions."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "event" }, [
+          _c("h3", [_vm._v("July 2015 - October 2016")]),
+          _vm._v(" "),
+          _c("h4", [_vm._v("Full Stack Web Developer")]),
+          _vm._v(" "),
+          _c("h5", [_vm._v("Bravelets")]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "I converted Photoshop design concepts into workable website applications (front-end and back-end)\u2028. I implemented third-party APIs into user-facing product tools that collect and manipulate data. I\u2028improved existing tools, systems, and applications with scalable and flexible code."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "event" }, [
+          _c("h3", [_vm._v("July 2014 - July 2015")]),
+          _vm._v(" "),
+          _c("h4", [_vm._v("Front-End Web Developer")]),
+          _vm._v(" "),
+          _c("h5", [_vm._v("Texas State University")]),
+          _vm._v(" "),
+          _c("p", [
+            _vm._v(
+              "I maintained the website for the School of Journalism & Mass Communication of Texas State University. I was responsible for ensuring information on the site was up-to-date and beneficial to college students\u2028. I designed the layout and page format using HTML/CSS, JavaScript and jQuery."
+            )
+          ])
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Javascript")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-javascript-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("jQuery")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-jquery-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("PHP")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-php-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("HTML")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-html5-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("CSS")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-css3-plain-wordmark large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("SASS")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-sass-original large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("MySQL")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-mysql-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Git")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-git-plain" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Git")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-git-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Apache")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-apache-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Linux")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-linux-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ year")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Laravel")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-laravel-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Wordpress")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-wordpress-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("2+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("AngularJS")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-angularjs-plain-wordmark large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("2+ years")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Angular 4+")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-angularjs-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("1+ year")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("span", { staticClass: "strong-text" }, [_vm._v("VueJS")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("NodeJS")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-nodejs-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("1 year")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("React")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-react-original large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("1 year")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row right-entry" }, [
+      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+        _c("span", { staticClass: "strong-text" }, [_vm._v("Photoshop")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-2 " }, [
+        _c("i", { staticClass: "devicon-photoshop-plain large-icon" })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+        _vm._v("3+ year")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "row resume-education" }, [
+      _c(
+        "div",
+        { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2" },
+        [
+          _c("h3", { staticClass: "text-center" }, [_vm._v("EDUCATION")]),
+          _vm._v(" "),
+          _c("hr", { staticClass: "subheadline" }),
+          _vm._v(" "),
+          _c("div", { staticClass: "event" }, [
+            _c("h3", [_vm._v("August 2011 - July 2015")]),
+            _vm._v(" "),
+            _c("h4", [_vm._v("B.S. Electronic Media (Cum Laude)")]),
+            _vm._v(" "),
+            _c("h5", [_vm._v("Texas State University")]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "I have a Bachelors of Science degree in Mass Communication-Electronic Media at the University of Texas at San Marcos."
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "event" }, [
+            _c("h3", [_vm._v("2014")]),
+            _vm._v(" "),
+            _c("h4", [_vm._v("Full Stack Web Development")]),
+            _vm._v(" "),
+            _c("h5", [_vm._v("Codeup")]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "I studied web development at a 3-month web development bootcampt known as Codeup which taught me the LAMP stack + JavaScript."
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "event" }, [
+            _c("h3", [_vm._v("2011")]),
+            _vm._v(" "),
+            _c("h4", [_vm._v("Studio Production & Live Sound Production")]),
+            _vm._v(" "),
+            _c("h5", [_vm._v("San Antonio Audio Engineering Institute")]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "I have an audio engineering certificate to produce music for recording studios and live performance."
+              )
+            ])
+          ]),
+          _vm._v(" "),
           _c(
-            "div",
-            { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2" },
+            "a",
+            {
+              attrs: {
+                href: "media/JosuePlaza_FullStackWebDeveloper_Resume.pdf"
+              }
+            },
             [
-              _c("h3", { staticClass: "text-center" }, [
-                _vm._v("WORK EXPERIENCE")
-              ]),
-              _vm._v(" "),
-              _c("hr", { staticClass: "subheadline" }),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("p", [_c("i", { staticClass: "pe-7s-ribbon" })])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("h3", [_vm._v("October 2016 - Present")]),
-                _vm._v(" "),
-                _c("h4", [_vm._v("Full Stack Web Developer")]),
-                _vm._v(" "),
-                _c("h5", [_vm._v("Parlevel Systems")]),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-lg-left" }, [
-                  _vm._v(
-                    "At Parlevel, I code back-end features in PHP on top of the Laravel framework utilizing the following technologies: HTML, CSS, PHP, MySQL, JavaScript, AngularJS, Laravel, and more. Responsibilities include (but are not limited to): systems analysis, code creation, testing, build/release technical documentation and customer technical support. My code is designed with responsive web design techniques and ran across a wide range of browsers and Devices."
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("h3", [_vm._v("July 2016 - October 2016")]),
-                _vm._v(" "),
-                _c("h4", [_vm._v("Web Development TA")]),
-                _vm._v(" "),
-                _c("h5", [_vm._v("The University of Texas at Austin")]),
-                _vm._v(" "),
-                _c("p", { staticClass: "text-lg-left" }, [
-                  _vm._v(
-                    "For one cohort, I assisted students in understanding the following languages: Git, HTML, CSS, JavaScript, Laravel, NodeJS, MySQL, PHP, and more.\u2028 I helped teach students coding fundamentals such as clean code, informative comments, syntax standards, and best tools for programming. I oversaw student web application projects and assisted students with stuck points by guiding them to solutions."
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("h3", [_vm._v("July 2015 - October 2016")]),
-                _vm._v(" "),
-                _c("h4", [_vm._v("Full Stack Web Developer")]),
-                _vm._v(" "),
-                _c("h5", [_vm._v("Bravelets")]),
-                _vm._v(" "),
-                _c("p", [
-                  _vm._v(
-                    "I converted Photoshop design concepts into workable website applications (front-end and back-end)\u2028. I implemented third-party APIs into user-facing product tools that collect and manipulate data. I\u2028improved existing tools, systems, and applications with scalable and flexible code."
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("h3", [_vm._v("July 2014 - July 2015")]),
-                _vm._v(" "),
-                _c("h4", [_vm._v("Front-End Web Developer")]),
-                _vm._v(" "),
-                _c("h5", [_vm._v("Texas State University")]),
-                _vm._v(" "),
-                _c("p", [
-                  _vm._v(
-                    "I maintained the website for the School of Journalism & Mass Communication of Texas State University. I was responsible for ensuring information on the site was up-to-date and beneficial to college students\u2028. I designed the layout and page format using HTML/CSS, JavaScript and jQuery."
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("h2", [_vm._v("EDUCATION")]),
-                _vm._v(" "),
-                _c("p", [_c("i", { staticClass: "pe-7s-study" })])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("h3", [_vm._v("August 2011 - July 2015")]),
-                _vm._v(" "),
-                _c("h4", [_vm._v("B.S. Electronic Media (Cum Laude)")]),
-                _vm._v(" "),
-                _c("h5", [_vm._v("Texas State University")]),
-                _vm._v(" "),
-                _c("p", [
-                  _vm._v(
-                    "I have a Bachelors of Science degree in Mass Communication-Electronic Media at the University of Texas at San Marcos."
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("h3", [_vm._v("2014")]),
-                _vm._v(" "),
-                _c("h4", [_vm._v("Full Stack Web Development")]),
-                _vm._v(" "),
-                _c("h5", [_vm._v("Codeup")]),
-                _vm._v(" "),
-                _c("p", [
-                  _vm._v(
-                    "I studied web development at a 3-month web development bootcampt known as Codeup which taught me the LAMP stack + JavaScript."
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "event" }, [
-                _c("h3", [_vm._v("2011")]),
-                _vm._v(" "),
-                _c("h4", [_vm._v("Studio Production & Live Sound Production")]),
-                _vm._v(" "),
-                _c("h5", [_vm._v("San Antonio Audio Engineering Institute")]),
-                _vm._v(" "),
-                _c("p", [
-                  _vm._v(
-                    "I have an audio engineering certificate to produce music for recording studios and live performance."
-                  )
-                ])
-              ]),
-              _vm._v(" "),
               _c(
-                "a",
-                {
-                  attrs: {
-                    href: "media/JosuePlaza_FullStackWebDeveloper_Resume.pdf"
-                  }
-                },
+                "button",
+                { staticClass: "btn btn-main", attrs: { type: "button" } },
                 [
-                  _c(
-                    "button",
-                    {
-                      staticClass: "btn btn-resume",
-                      attrs: { type: "button" }
-                    },
-                    [
-                      _vm._v("Download Resume "),
-                      _c("i", {
-                        staticClass: "fa fa-file-pdf-o",
-                        attrs: { "aria-hidden": "true" }
-                      })
-                    ]
-                  )
+                  _vm._v("Download Resume "),
+                  _c("i", {
+                    staticClass: "fa fa-file-pdf-o",
+                    attrs: { "aria-hidden": "true" }
+                  })
                 ]
               )
             ]
+          )
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", [
+      _c("div", { staticClass: "row footer" }, [
+        _c("div", { staticClass: "col-md-12 text-center" }, [
+          _c(
+            "a",
+            {
+              staticClass: "social-icon",
+              attrs: { href: "https://www.twitter.com/plazajosue" }
+            },
+            [_c("i", { staticClass: "fa fa-twitter" })]
           ),
           _vm._v(" "),
-          _c("div", { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-5" }, [
-            _c("h3", { staticClass: "text-center" }, [_vm._v("SKILLS")]),
-            _vm._v(" "),
-            _c("hr", { staticClass: "subheadline" }),
-            _vm._v(" "),
-            _c("ul", { staticClass: "skills" }, [
-              _c("li", [_vm._v("AngularJS")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Angular (2/4)")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Back-End")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Bootstrap")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("CakePHP")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Cordova")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("CSS")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("eCommerce Business")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("HTML")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Email Marketing & Templating")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Firebase")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Front-End")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Git")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Implementing APIs")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Ionic")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("JavaScript")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("jQuery")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("JSON")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Laravel")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Linux")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Mobile Development")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("MVC Frameworks")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("MySQL")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("NPM")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("NodeJS")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Payment Gateways")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("PCI Compliance")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("PHP")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("SASS")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("TypeScript")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Webpack")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Wordpress")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("XML")])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "ribbon-wrapper medium text-center" }, [
-              _c("span", [_c("span", [_vm._v("DESIGN")])])
-            ]),
-            _vm._v(" "),
-            _c("ul", { staticClass: "skills" }, [
-              _c("li", [_vm._v("Photoshop")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Premiere Pro")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("UI/UX")])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "ribbon-wrapper medium text-center" }, [
-              _c("span", [_c("span", [_vm._v("AUDIO")])])
-            ]),
-            _vm._v(" "),
-            _c("ul", { staticClass: "skills" }, [
-              _c("li", [_vm._v("Music Production")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Adobe Audition")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Logic Pro")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Ableton Live")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("FL Studio")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Native Instruments")]),
-              _vm._v(" "),
-              _c("li", [_vm._v("Waves Audio Plugins")])
-            ])
-          ])
+          _c(
+            "a",
+            {
+              staticClass: "social-icon",
+              attrs: { href: "mailto:mail@josueplaza.com" }
+            },
+            [_c("i", { staticClass: "fa fa-envelope" })]
+          ),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass: "social-icon",
+              attrs: { href: "https://www.github.com/hexagonstorms" }
+            },
+            [_c("i", { staticClass: "fa fa-github" })]
+          ),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass: "social-icon",
+              attrs: { href: "https://linkedin.com/in/josueplaza" }
+            },
+            [_c("i", { staticClass: "fa fa-linkedin" })]
+          )
         ]),
         _vm._v(" "),
-        _c("section"),
-        _vm._v(" "),
-        _c("section", { staticClass: "row resume-education" })
-      ]
-    )
+        _c("div", { staticClass: "col-md-12  text-center" }, [
+          _vm._v(
+            "\n                    Copyright 2017 © by Josue Plaza\n                "
+          )
+        ])
+      ])
+    ])
   }
 ]
 render._withStripped = true

@@ -24,8 +24,8 @@
         </section>
         <section class="row resume-experience">
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2">
-                    <h3 class="text-center">WORK EXPERIENCE</h3>
-                    <hr class="subheadline">
+                <h3 class="text-center">EXPERIENCE</h3>
+                <hr class="subheadline">
                 <div class="event">
                     <p>
                         <i class="pe-7s-ribbon"></i>
@@ -55,13 +55,248 @@
                     <h5>Texas State University</h5>
                     <p>I maintained the website for the School of Journalism &amp; Mass Communication of Texas State University. I was responsible for ensuring information on the site was up-to-date and beneficial to college students . I designed the layout and page format using HTML/CSS, JavaScript and jQuery.</p>
                 </div>
-                <div class="event">
-                    <h2>EDUCATION</h2>
-                    <p>
-                        <i class="pe-7s-study"></i>
-                        <!--<img src="images/site/icon-03.png" alt="image"/>-->
-                    </p>
+                
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5">
+                <h3 class="text-center">LANGUAGES</h3>
+                <hr class="subheadline">
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Javascript</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-javascript-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
                 </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">jQuery</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-jquery-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">PHP</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-php-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">HTML</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-html5-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">CSS</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-css3-plain-wordmark large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">SASS</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-sass-original large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">MySQL</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-mysql-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Git</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-git-plain"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Git</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-git-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Apache</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-apache-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+<!--                 <ul class="skills">
+                    <li>Back-End</li>
+                    <li>Bootstrap</li>
+                    <li>CakePHP</li>
+                    <li>Cordova</li>
+                    <li>eCommerce Business</li>
+                    <li>Email Marketing &amp; Templating</li>
+                    <li>Firebase</li>
+                    <li>Front-End</li>
+                    <li>Implementing APIs</li>
+                    <li>Ionic</li>
+                    <li>JSON</li>
+                    <li>Laravel</li>
+                    <li>Linux</li>
+                    <li>Mobile Development</li>
+                    <li>MVC Frameworks</li>
+                    <li>NPM</li>
+                    <li>Payment Gateways</li>
+                    <li>PCI Compliance</li>
+                    <li>Webpack</li>
+                    <li>Wordpress</li>
+                    <li>XML</li>
+                </ul> -->
+                <h3 class="text-center">TECHNOLOGIES</h3>
+                <hr class="subheadline">
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Linux</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-linux-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ year</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Laravel</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-laravel-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Wordpress</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-wordpress-plain large-icon"></i>
+
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">2+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">AngularJS</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-angularjs-plain-wordmark large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">2+ years</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Angular 4+</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-angularjs-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">1+ year</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">VueJS</span>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="icon-svg">
+                            <svg viewBox="0 0 128 128">
+                                <path fill="#35495e" d="m-1.85e-7 8.9337 49.854 0.1586 14.299 24.415 14.3-24.415 49.547-0.1577-63.834 110.14zm126.98 0.6374-24.36 0.0207-38.476 66.052-38.453-66.052-24.749-0.0194 63.211 107.89zm-25.14-0.008-22.749 0.1676-14.938 25.033-14.938-25.033-22.794-0.1679l37.731 64.476z"></path>
+                            </svg>
+                        </div> 
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">1 year</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">NodeJS</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-nodejs-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">1 year</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">React</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-react-original large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">1 year</div>
+                </div>
+                
+                <div class="row right-entry">
+                    <div class="col-md-3 col-md-offset-2">
+                        <span class="strong-text">Photoshop</span>
+                    </div>
+                    <div class="col-md-2 ">
+                        <i class="devicon-photoshop-plain large-icon"></i>
+                    </div>
+                    <div class="col-md-3 col-md-offset-1 grey-text">3+ year</div>
+                </div>
+                
+               <!--  <ul class="skills">
+                    <li>Photoshop</li>
+                    <li>Premiere Pro</li>
+                    <li>UI/UX</li>
+                </ul> -->
+                
+            </div>
+        </section>
+        <section class="row parallax-divider">
+            <!-- // parallax divider -->
+        </section>
+        <section class="row resume-education">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2">
+                <h3 class="text-center">EDUCATION</h3>
+                <hr class="subheadline">
                 <div class="event">
                     <h3>August 2011 - July 2015</h3>
                     <h4>B.S. Electronic Media (Cum Laude)</h4>
@@ -80,77 +315,22 @@
                     <h5>San Antonio Audio Engineering Institute</h5>
                     <p>I have an audio engineering certificate to produce music for recording studios and live performance.</p>
                 </div>
-                <a href="media/JosuePlaza_FullStackWebDeveloper_Resume.pdf"><button type="button" class="btn btn-resume">Download Resume <i class="fa fa-file-pdf-o" aria-hidden="true"></i></button></a>
+                <a href="media/JosuePlaza_FullStackWebDeveloper_Resume.pdf"><button type="button" class="btn btn-main">Download Resume <i class="fa fa-file-pdf-o" aria-hidden="true"></i></button></a>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5">
-                <h3 class="text-center">SKILLS</h3>
-                <hr class="subheadline">
-                <ul class="skills">
-                    <li>AngularJS</li>
-                    <li>Angular (2/4)</li>
-                    <li>Back-End</li>
-                    <li>Bootstrap</li>
-                    <li>CakePHP</li>
-                    <li>Cordova</li>
-                    <li>CSS</li>
-                    <li>eCommerce Business</li>
-                    <li>HTML</li>
-                    <li>Email Marketing &amp; Templating</li>
-                    <li>Firebase</li>
-                    <li>Front-End</li>
-                    <li>Git</li>
-                    <li>Implementing APIs</li>
-                    <li>Ionic</li>
-                    <li>JavaScript</li>
-                    <li>jQuery</li>
-                    <li>JSON</li>
-                    <li>Laravel</li>
-                    <li>Linux</li>
-                    <li>Mobile Development</li>
-                    <li>MVC Frameworks</li>
-                    <li>MySQL</li>
-                    <li>NPM</li>
-                    <li>NodeJS</li>
-                    <li>Payment Gateways</li>
-                    <li>PCI Compliance</li>
-                    <li>PHP</li>
-                    <li>SASS</li>
-                    <li>TypeScript</li>
-                    <li>Webpack</li>
-                    <li>Wordpress</li>
-                    <li>XML</li>
-                </ul>
-                <div class="ribbon-wrapper medium text-center">
-                    <span>
-                        <span>DESIGN</span>
-                    </span>
-                </div>
-                <ul class="skills">
-                    <li>Photoshop</li>
-                    <li>Premiere Pro</li>
-                    <li>UI/UX</li>
-                </ul>
-                <div class="ribbon-wrapper medium text-center">
-                    <span>
-                        <span>AUDIO</span>
-                    </span>
-                </div>
-                <ul class="skills">
-                    <li>Music Production</li>
-                    <li>Adobe Audition</li>
-                    <li>Logic Pro</li>
-                    <li>Ableton Live</li>
-                    <li>FL Studio</li>
-                    <li>Native Instruments</li>
-                    <li>Waves Audio Plugins</li>
-                </ul>
-            </div>
+            <!-- // LEFT - education, - RIGHT - skillsets -->
         </section>
         <section>
-            <!-- // parallax divider -->
-        </section>
-        <section class="row resume-education">
-            <!-- // LEFT - education, - RIGHT - skillsets -->
+            <div class="row footer">
+                <div class="col-md-12 text-center">
+                    <a class="social-icon" href="https://www.twitter.com/plazajosue"><i class="fa fa-twitter"></i></a>
+                    <a class="social-icon" href="mailto:mail@josueplaza.com"><i class="fa fa-envelope"></i></a>
+                    <a class="social-icon" href="https://www.github.com/hexagonstorms"><i class="fa fa-github"></i></a>
+                    <a class="social-icon" href="https://linkedin.com/in/josueplaza"><i class="fa fa-linkedin"></i></a>
+                </div>
+                <div class="col-md-12  text-center">
+                    Copyright 2017 &copy; by Josue Plaza
+                </div>
+            </div>
         </section>
         <!-- // footer/ -->
     </div>
