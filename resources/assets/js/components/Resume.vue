@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <p>
-                            Hey there, my name is Josue Plaza and I am a full stack developer with more than three years' experience. I have designed and built rich, user-friendly interfaces for web projects of all sizes.
+                            My name is Josue Plaza and I am a Full Stack Developer with a taste for learning. I have designed and built rich, user-friendly interfaces for web projects of all sizes.
                         </p>
                         <p>
                             My hobbies include traveling, playing music, and watching professional eSports (mostly League of Legends &amp; Overwatch). 

@@ -49084,7 +49084,7 @@ var staticRenderFns = [
           _c("div", { staticClass: "col-xs-12" }, [
             _c("p", [
               _vm._v(
-                "\n                            Hey there, my name is Josue Plaza and I am a full stack developer with more than three years' experience. I have designed and built rich, user-friendly interfaces for web projects of all sizes.\n                        "
+                "\n                            My name is Josue Plaza and I am a Full Stack Developer with a taste for learning. I have designed and built rich, user-friendly interfaces for web projects of all sizes.\n                        "
               )
             ]),
             _vm._v(" "),
