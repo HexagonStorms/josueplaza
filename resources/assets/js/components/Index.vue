@@ -5,7 +5,7 @@
         </div>
         <div class="container-fluid index-text-container scoot">
             <div class="row">
-                <div class="col-md-6 col-md-offset-2 col-sm-offset-1 col-sm-10 col-xs-12 headline white-text">
+                <div class="col-md-6 col-md-offset-2 col-sm-offset-1 col-sm-10 col-xs-offset-1 col-xs-10 headline white-text">
                     Beautiful design,<br>
                     pragmatic approach.
                 </div>
