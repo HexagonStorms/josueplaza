@@ -27,7 +27,7 @@
         </section> -->
         
         <section class="row resume-experience">
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 m-b-2">
                 <h3 class="text-center">EXPERIENCE</h3>
                 <hr class="subheadline">
                 <div class="event">
@@ -61,98 +61,98 @@
                 </div>
                 
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                 <h3 class="text-center">LANGUAGES</h3>
                 <hr class="subheadline">
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">Javascript</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-javascript-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">jQuery</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-jquery-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">PHP</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-php-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">HTML</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-html5-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">CSS</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-css3-plain-wordmark large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">SASS</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-sass-original large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">MySQL</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-mysql-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">Git</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-git-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">Apache</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-apache-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
 <!--                 <ul class="skills">
@@ -182,98 +182,98 @@
                 <hr class="subheadline">
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">Linux</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-linux-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ year</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">Laravel</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-laravel-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">Wordpress</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-wordpress-plain large-icon"></i>
 
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">2+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">2+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">AngularJS</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-angularjs-plain-wordmark large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">2+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">2+ years</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">Angular 4+</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-angularjs-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">1+ year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">1+ year</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">VueJS</span>
                     </div>
-                    <div class="col-md-2">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <div class="icon-svg">
                             <svg viewBox="0 0 128 128">
                                 <path fill="#35495e" d="m-1.85e-7 8.9337 49.854 0.1586 14.299 24.415 14.3-24.415 49.547-0.1577-63.834 110.14zm126.98 0.6374-24.36 0.0207-38.476 66.052-38.453-66.052-24.749-0.0194 63.211 107.89zm-25.14-0.008-22.749 0.1676-14.938 25.033-14.938-25.033-22.794-0.1679l37.731 64.476z"></path>
                             </svg>
                         </div> 
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">1 year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">1 year</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">NodeJS</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-nodejs-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">1 year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">1 year</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">React</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-react-original large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">1 year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">1 year</div>
                 </div>
                 
                 <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
+                    <div class="col-xs-4">
                         <span class="strong-text">Photoshop</span>
                     </div>
-                    <div class="col-md-2 ">
+                    <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-photoshop-plain large-icon"></i>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ year</div>
                 </div>
                 
                <!--  <ul class="skills">
@@ -311,6 +311,39 @@
                 <a href="media/JosuePlaza_FullStackWebDeveloper_Resume.pdf"><button type="button" class="btn btn-main">Download Resume <i class="fa fa-file-pdf-o" aria-hidden="true"></i></button></a>
             </div>
             <!-- // LEFT - education, - RIGHT - skillsets -->
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                <h3 class="text-center">TESTIMONIALS</h3>
+                <hr class="subheadline">
+                <div id="testimonial-container">
+                    <div id="dusty-testimonial container">
+                        <div class="row text-center ">
+                            <div class="col-xs-12 margin-top">
+                                <img class="img-circle testimonial-img" src="/img/dusty.jpg">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 white-text text-center">
+                                <h6>Dusty Satterfield</h6>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 testimonial-title text-center">
+                                <h4 class="no-margin-top">Senior Full Stack Developer</h4>
+                            </div>
+                        </div>
+                        <div class="row text-center">
+                            <div class="col-xs-12 testimonial-text">
+                                <p>
+                                    Being an experienced developer myself who has worked with a wide variety of different developers through all sorts of different companies, Josue stands out among the best to work with. His very positive and productive attitude makes him an asset to any team. Josue is an incredible team player who learns quickly, takes any challenge head on, no matter how intimidating and unknown it may be and always with excitement and a passion to learn. He’s excellent at learning on his own and the level of independence and attention to detail that he has is difficult to find.
+                                </p>
+                                <p>
+                                    Josue worked with us for 1 year and 4 months and among that time, he grew in skill very quickly. He’s managed large projects on his own from concept all the way to deployment. He’s capable of jumping into a very complex system that’s already established and learning how to be effective at it pretty quickly. The most impressive thing about Josue is that even though he’s relatively new to coding, it’s extremely easy to see the potential he has to continue growing. He’s already an effective asset, better than most programmers I’ve worked with and will clearly get faster and more efficient due to his great attitude and work ethic.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
         <section>
             <div class="row footer">

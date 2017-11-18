@@ -48956,6 +48956,39 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {}
@@ -48978,7 +49011,7 @@ var render = function() {
       _c("section", { staticClass: "row resume-experience" }, [
         _vm._m(1),
         _vm._v(" "),
-        _c("div", { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-5" }, [
+        _c("div", { staticClass: "col-xs-12 col-sm-12 col-md-4 col-lg-4" }, [
           _c("h3", { staticClass: "text-center" }, [_vm._v("LANGUAGES")]),
           _vm._v(" "),
           _c("hr", { staticClass: "subheadline" }),
@@ -49018,7 +49051,7 @@ var render = function() {
           _c("div", { staticClass: "row right-entry" }, [
             _vm._m(16),
             _vm._v(" "),
-            _c("div", { staticClass: "col-md-2" }, [
+            _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
               _c("div", { staticClass: "icon-svg" }, [
                 _c("svg", { attrs: { viewBox: "0 0 128 128" } }, [
                   _c("path", {
@@ -49032,7 +49065,7 @@ var render = function() {
               ])
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+            _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
               _vm._v("1 year")
             ])
           ]),
@@ -49104,7 +49137,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c(
       "div",
-      { staticClass: "col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2" },
+      { staticClass: "col-xs-12 col-sm-12 col-md-8 col-lg-8 m-b-2" },
       [
         _c("h3", { staticClass: "text-center" }, [_vm._v("EXPERIENCE")]),
         _vm._v(" "),
@@ -49177,15 +49210,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("Javascript")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-javascript-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49195,15 +49228,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("jQuery")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-jquery-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49213,15 +49246,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("PHP")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-php-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49231,15 +49264,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("HTML")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-html5-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49249,15 +49282,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("CSS")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-css3-plain-wordmark large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49267,15 +49300,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("SASS")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-sass-original large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49285,15 +49318,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("MySQL")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-mysql-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49303,15 +49336,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("Git")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-git-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49321,15 +49354,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("Apache")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-apache-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49339,15 +49372,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("Linux")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-linux-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ year")
       ])
     ])
@@ -49357,15 +49390,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("Laravel")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-laravel-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ years")
       ])
     ])
@@ -49375,15 +49408,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("Wordpress")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-wordpress-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("2+ years")
       ])
     ])
@@ -49393,15 +49426,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("AngularJS")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-angularjs-plain-wordmark large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("2+ years")
       ])
     ])
@@ -49411,15 +49444,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("Angular 4+")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-angularjs-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("1+ year")
       ])
     ])
@@ -49428,7 +49461,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+    return _c("div", { staticClass: "col-xs-4" }, [
       _c("span", { staticClass: "strong-text" }, [_vm._v("VueJS")])
     ])
   },
@@ -49437,15 +49470,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("NodeJS")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-nodejs-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("1 year")
       ])
     ])
@@ -49455,15 +49488,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("React")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-react-original large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("1 year")
       ])
     ])
@@ -49473,15 +49506,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
+      _c("div", { staticClass: "col-xs-4" }, [
         _c("span", { staticClass: "strong-text" }, [_vm._v("Photoshop")])
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
+      _c("div", { staticClass: "col-xs-2 col-xs-offset-1" }, [
         _c("i", { staticClass: "devicon-photoshop-plain large-icon" })
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
+      _c("div", { staticClass: "col-xs-3 col-xs-offset-2 grey-text" }, [
         _vm._v("3+ year")
       ])
     ])
@@ -49563,7 +49596,60 @@ var staticRenderFns = [
             ]
           )
         ]
-      )
+      ),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-xs-12 col-sm-12 col-md-4 col-lg-4" }, [
+        _c("h3", { staticClass: "text-center" }, [_vm._v("TESTIMONIALS")]),
+        _vm._v(" "),
+        _c("hr", { staticClass: "subheadline" }),
+        _vm._v(" "),
+        _c("div", { attrs: { id: "testimonial-container" } }, [
+          _c("div", { attrs: { id: "dusty-testimonial container" } }, [
+            _c("div", { staticClass: "row text-center " }, [
+              _c("div", { staticClass: "col-xs-12 margin-top" }, [
+                _c("img", {
+                  staticClass: "img-circle testimonial-img",
+                  attrs: { src: "/img/dusty.jpg" }
+                })
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-xs-12 white-text text-center" }, [
+                _c("h6", [_vm._v("Dusty Satterfield")])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "row" }, [
+              _c(
+                "div",
+                { staticClass: "col-xs-12 testimonial-title text-center" },
+                [
+                  _c("h4", { staticClass: "no-margin-top" }, [
+                    _vm._v("Senior Full Stack Developer")
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "row text-center" }, [
+              _c("div", { staticClass: "col-xs-12 testimonial-text" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                    Being an experienced developer myself who has worked with a wide variety of different developers through all sorts of different companies, Josue stands out among the best to work with. His very positive and productive attitude makes him an asset to any team. Josue is an incredible team player who learns quickly, takes any challenge head on, no matter how intimidating and unknown it may be and always with excitement and a passion to learn. He’s excellent at learning on his own and the level of independence and attention to detail that he has is difficult to find.\n                                "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "\n                                    Josue worked with us for 1 year and 4 months and among that time, he grew in skill very quickly. He’s managed large projects on his own from concept all the way to deployment. He’s capable of jumping into a very complex system that’s already established and learning how to be effective at it pretty quickly. The most impressive thing about Josue is that even though he’s relatively new to coding, it’s extremely easy to see the potential he has to continue growing. He’s already an effective asset, better than most programmers I’ve worked with and will clearly get faster and more efficient due to his great attitude and work ethic.\n                                "
+                  )
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
     ])
   },
   function() {

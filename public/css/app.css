@@ -11409,6 +11409,10 @@ button.close {
 
 /* ----------------------------------------------------------------- */
 
+.white-text {
+  color: white;
+}
+
 .subheadline {
   width: 230px;
   margin-top: 5px;
@@ -11436,8 +11440,16 @@ button.close {
   background-color: #848484;
 }
 
+.no-margin-top {
+  margin-top: 0;
+}
+
 .margin-top {
   margin-top: 15px;
+}
+
+.margin-bottom {
+  margin-bottom: 15px;
 }
 
 .no-padding {
@@ -11563,6 +11575,43 @@ body {
 
 /* ----------------------------------------------------------------- */
 
+#testimonial-container {
+  background-color: #90bbff;
+  padding-bottom: 10px;
+}
+
+#testimonial-container::before {
+  content: "\201C";
+  font-size: 100px;
+  position: absolute;
+  left: -25px;
+  top: 50px;
+}
+
+#testimonial-container::after {
+  content: "\201D";
+  font-size: 100px;
+  position: absolute;
+  right: -25px;
+  top: 50px;
+}
+
+.testimonial-title {
+  color: white;
+  font-weight: 700;
+}
+
+.testimonial-img {
+  width: 120px;
+}
+
+.testimonial-text {
+  padding-left: 50px;
+  padding-right: 50px;
+  color: white;
+  font-size: 0.9em;
+}
+
 .parallax-a {
   background-image: url("/img/rohit_tandon_mountains.jpg");
   background-attachment: fixed;
@@ -11610,7 +11659,9 @@ body {
   height: 780px;
 }
 
-.resume-experience {
+.resume-experience,
+.resume-education {
+  padding-top: 25px;
   padding-bottom: 25px;
 }
 
