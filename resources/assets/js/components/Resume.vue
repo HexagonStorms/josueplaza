@@ -301,13 +301,19 @@
                     <h3>2014</h3>
                     <h4>Full Stack Web Development</h4>
                     <h5>Codeup</h5>
-                    <p>I studied web development at a 3-month web development bootcampt known as Codeup which taught me the LAMP stack + JavaScript.</p>
+                    <p>I studied web development at a 3-month web development bootcamp known as Codeup which taught me the LAMP stack + JavaScript.</p>
                 </div>
                 <div class="event">
                     <h3>2011</h3>
                     <h4>Studio Production &amp; Live Sound Production</h4>
                     <h5>San Antonio Audio Engineering Institute</h5>
                     <p>I have an audio engineering certificate to produce music for recording studios and live performance.</p>
+                </div>
+                <div class="event">
+                    <h3>2011</h3>
+                    <h4>H.S. Diploma</h4>
+                    <h5>Byron P. Steele II High School</h5>
+                    <p>High school graduation. Cum Laude.</p>
                 </div>
                 <a href="/assets/JosuePlaza_Resume.pdf"><button type="button" class="btn btn-main">Download Resume <i class="fa fa-file-pdf-o" aria-hidden="true"></i></button></a>
             </div>
