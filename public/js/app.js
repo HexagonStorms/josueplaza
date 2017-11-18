@@ -48956,13 +48956,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {}
@@ -49008,11 +49001,11 @@ var render = function() {
           _vm._v(" "),
           _vm._m(10),
           _vm._v(" "),
-          _vm._m(11),
-          _vm._v(" "),
           _c("h3", { staticClass: "text-center" }, [_vm._v("TECHNOLOGIES")]),
           _vm._v(" "),
           _c("hr", { staticClass: "subheadline" }),
+          _vm._v(" "),
+          _vm._m(11),
           _vm._v(" "),
           _vm._m(12),
           _vm._v(" "),
@@ -49022,10 +49015,8 @@ var render = function() {
           _vm._v(" "),
           _vm._m(15),
           _vm._v(" "),
-          _vm._m(16),
-          _vm._v(" "),
           _c("div", { staticClass: "row right-entry" }, [
-            _vm._m(17),
+            _vm._m(16),
             _vm._v(" "),
             _c("div", { staticClass: "col-md-2" }, [
               _c("div", { staticClass: "icon-svg" }, [
@@ -49046,19 +49037,19 @@ var render = function() {
             ])
           ]),
           _vm._v(" "),
+          _vm._m(17),
+          _vm._v(" "),
           _vm._m(18),
           _vm._v(" "),
-          _vm._m(19),
-          _vm._v(" "),
-          _vm._m(20)
+          _vm._m(19)
         ])
       ]),
       _vm._v(" "),
-      _c("section", { staticClass: "row parallax-divider" }),
+      _c("section", { staticClass: "row parallax-b" }),
       _vm._v(" "),
-      _vm._m(21),
+      _vm._m(20),
       _vm._v(" "),
-      _vm._m(22)
+      _vm._m(21)
     ]
   )
 }
@@ -49300,24 +49291,6 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("div", { staticClass: "col-md-2 " }, [
         _c("i", { staticClass: "devicon-mysql-plain large-icon" })
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [
-        _vm._v("3+ years")
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "row right-entry" }, [
-      _c("div", { staticClass: "col-md-3 col-md-offset-2" }, [
-        _c("span", { staticClass: "strong-text" }, [_vm._v("Git")])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "col-md-2 " }, [
-        _c("i", { staticClass: "devicon-git-plain" })
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "col-md-3 col-md-offset-1 grey-text" }, [

@@ -143,9 +143,22 @@ body {
 /* ----------------------------------------------------------------- */
 /* RESUME */
 /* ----------------------------------------------------------------- */
-.parallax-divider {
-	background-color: black;
+.parallax-a {
+	background-image: url("/img/rohit_tandon_mountains.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 	height: 220px;
+}
+.parallax-b {
+	background-color: white;
+	height: 220px;
+	background-image: url("/img/elena-blidaru-79403.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .icon-svg {
 	width: 29px;
@@ -163,7 +176,12 @@ body {
 }
 .resume-banner {
 	background-color: #e6f0ff;
-	height: 340px;
+	background-image: url("/img/rohit_tandon_mountains.jpg");
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 780px;
 }
 .resume-experience {
 	padding-bottom: 25px;

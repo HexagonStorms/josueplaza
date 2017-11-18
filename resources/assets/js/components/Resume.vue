@@ -22,6 +22,10 @@
                 </div>
             </div>
         </section>
+        
+        <!-- <section class="row parallax-a">
+        </section> -->
+        
         <section class="row resume-experience">
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2">
                 <h3 class="text-center">EXPERIENCE</h3>
@@ -127,16 +131,6 @@
                     </div>
                     <div class="col-md-2 ">
                         <i class="devicon-mysql-plain large-icon"></i>
-                    </div>
-                    <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
-                </div>
-                
-                <div class="row right-entry">
-                    <div class="col-md-3 col-md-offset-2">
-                        <span class="strong-text">Git</span>
-                    </div>
-                    <div class="col-md-2 ">
-                        <i class="devicon-git-plain"></i>
                     </div>
                     <div class="col-md-3 col-md-offset-1 grey-text">3+ years</div>
                 </div>
@@ -290,8 +284,7 @@
                 
             </div>
         </section>
-        <section class="row parallax-divider">
-            <!-- // parallax divider -->
+        <section class="row parallax-b">
         </section>
         <section class="row resume-education">
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7 m-b-2">
