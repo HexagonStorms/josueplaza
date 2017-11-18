@@ -1,26 +1,27 @@
 <template>
     <div id="resume-container" class="container-fluid">
         <section class="resume-banner row">
-            <div class="col-md-3 col-md-offset-1 col-sm-12 col-xs-12 text-center headline">
+            <div class="col-md-3 col-md-offset-1 col-sm-12 col-xs-12 text-center scoot">
                 <img class="resume-img" src="/img/pikespeak.jpg">
             </div>
-            <div class="col-md-6 col-sm-12 col-xs-12">
-                <div class="row headline">
+            <div class="col-md-6 col-sm-12 col-xs-12 scoot resume-headline-text">
+                <div class="row headline white-text">
                     <div class="col-xs-12">
                         Resume
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-12">
+                    <div class="col-xs-12 white-text">
                         <p>
-                            My name is Josue Plaza and I am a Full Stack Developer with a taste for learning. I have designed and built rich, user-friendly interfaces for web projects of all sizes.
+                            Hey there! My name is Josue Plaza and I am a Full Stack Developer with a taste for learning. I have designed and built rich, robust, and user-friendly applications for web projects of all sizes.
                         </p>
                         <p>
-                            My hobbies include traveling, playing music, and watching professional eSports (mostly League of Legends &amp; Overwatch). 
+                            I am a huge travel enthusiast, with a lifetime goal to visit as many places as I can. I love meeting new people from around the world and learning about their day-to-day lifestyle.   
                         </p>
                     </div>
                 </div>
             </div>
+            <i class="fa floating fa-chevron-down down-arrow fa-3x white-text" aria-hidden="true"></i>
         </section>
         
         <!-- <section class="row parallax-a">
@@ -308,7 +309,7 @@
                     <h5>San Antonio Audio Engineering Institute</h5>
                     <p>I have an audio engineering certificate to produce music for recording studios and live performance.</p>
                 </div>
-                <a href="media/JosuePlaza_FullStackWebDeveloper_Resume.pdf"><button type="button" class="btn btn-main">Download Resume <i class="fa fa-file-pdf-o" aria-hidden="true"></i></button></a>
+                <a href="/assets/JosuePlaza_Resume.pdf"><button type="button" class="btn btn-main">Download Resume <i class="fa fa-file-pdf-o" aria-hidden="true"></i></button></a>
             </div>
             <!-- // LEFT - education, - RIGHT - skillsets -->
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -328,7 +329,7 @@
                         </div>
                         <div class="row">
                             <div class="col-xs-12 testimonial-title text-center">
-                                <h4 class="no-margin-top">Senior Full Stack Developer</h4>
+                                <h4 class="no-margin-top">Senior Full Stack Developer - Bravelets</h4>
                             </div>
                         </div>
                         <div class="row text-center">
@@ -346,14 +347,14 @@
             </div>
         </section>
         <section>
-            <div class="row footer">
+            <div class="row footer light-grey-background">
                 <div class="col-md-12 text-center">
                     <a class="social-icon" href="https://www.twitter.com/plazajosue"><i class="fa fa-twitter"></i></a>
                     <a class="social-icon" href="mailto:mail@josueplaza.com"><i class="fa fa-envelope"></i></a>
                     <a class="social-icon" href="https://www.github.com/hexagonstorms"><i class="fa fa-github"></i></a>
                     <a class="social-icon" href="https://linkedin.com/in/josueplaza"><i class="fa fa-linkedin"></i></a>
                 </div>
-                <div class="col-md-12  text-center">
+                <div class="col-md-12 text-center">
                     Copyright 2017 &copy; by Josue Plaza
                 </div>
             </div>

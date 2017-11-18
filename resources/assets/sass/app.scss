@@ -14,11 +14,29 @@
 // Devions
 @import "~devicon/devicon.min.css";
 
+// Hover.css
+@import "~hover.css/scss/hover";
+
 /* ----------------------------------------------------------------- */
 /* GLOBAL */
 /* ----------------------------------------------------------------- */
+html {
+	scroll-behavior: smooth;
+}
 .white-text {
 	color: white;
+}
+.black-text {
+	color: black;
+}
+.off-black-text {
+	color: #616161;
+}
+.off-white-text {
+	color: #bdbdbd;
+}
+.light-grey-background {
+	background-color: $light-grey;
 }
 .subheadline {
 	width: 230px;
@@ -26,12 +44,12 @@
 }
 .btn-main {
 	border-radius: 2px;
-	background-color: #5fd3ff;
+	background-color: #b8d1ff;
 	color: white;
 	
 	&:hover {
 		color: white;
-		background-color: darken(#5fd3ff, 15%);
+		background-color: darken(#b8d1ff, 15%);
 	}
 }
 .btn-alt {
@@ -70,12 +88,6 @@ body {
 	.navbar-default {
 		background-color: $white-pink; 
 	}
-	.mobile-padding {
-		padding: 0 20px;
-	}
-	.mobile-text {
-		padding-right: 50px;
-	}
 }
 @media (min-width: 768px) {
 	#brand-logo {
@@ -83,6 +95,12 @@ body {
 	}
 	.navbar-default {
 		background-color: unset;
+		border: none;
+	}
+}
+@media (max-width: 767px) {
+	.navbar-default {
+		background-color: #1d1d1d;
 		border: none;
 	}
 }
@@ -94,6 +112,15 @@ body {
 	padding: 0 20px;
 	border: none;
 	z-index: 20;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    &:focus {
+    	color: #a7a7a7;
+    }
+    &:hover {
+    	color: darken(white, 15%);
+    }
 }
 .footer {
 	padding: 15px 25px 15px 25px;
@@ -119,26 +146,7 @@ body {
 	height: 100vh;
 	background-image: url('/img/nikita-kachanovsky-445394.jpg');
     background-position: center 0%;
-}
-@media (min-width: 869px) {
-	#index-container {
-		background-size: cover;
-	}
-}
-@media (max-width: 868px) {
-	#index-container {
-		background-size: auto;
-	}
-}
-@media (min-width: 1190px) {
-	.headline {
-		margin-top: 122px;
-	}
-}
-@media (max-width: 1189px) {
-	.headline {
-		margin-top: 72px; 
-	}
+    background-size: cover;
 }
 .portfolio-headline {
 	margin-top: 100px;
@@ -148,10 +156,17 @@ body {
 	font-weight: bold;
 	line-height: 1em;
 }
+.scoot {
+	margin-top: 72px; 
+}
 
 /* ----------------------------------------------------------------- */
 /* RESUME */
 /* ----------------------------------------------------------------- */
+.resume-headline-text {
+	background-color: rgba(0, 0, 0, 0.26);
+	padding: 10px;
+}
 #testimonial-container {
 	background-color: rgb(144, 187, 255);
 	padding-bottom: 10px;
@@ -215,13 +230,20 @@ body {
 	font-size: 1.4em;
 }
 .resume-banner {
+	position: relative;
 	background-color: #e6f0ff;
 	background-image: url("/img/rohit_tandon_mountains.jpg");
     background-attachment: fixed;
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
-	height: 780px;
+	height: 100vh;
+}
+.down-arrow {
+	position: absolute;
+	bottom: 50px;
+	left: 50%;
+	margin-left: -56px;
 }
 .resume-experience, .resume-education {
 	padding-top: 25px;
@@ -305,7 +327,7 @@ body {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #d2d2d2;
+	background-color: #b8d1ff;
 	height: 300px;
 }
 .large-icon {
@@ -397,6 +419,9 @@ body {
 /* ----------------------------------------------------------------- */
 /* ANIMATIONS */
 /* ----------------------------------------------------------------- */
+.hvr-underline-from-center:before {
+	background: white;
+}
 .fade-enter {
 	opacity: 0;
 }
@@ -444,4 +469,20 @@ body {
 	to {
 		transform: translateX(-75%);
 	}
+}
+
+/* ARROW HANG */
+.floating {  
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+@keyframes floating {
+    from { transform: translate(0,  0px); }
+    65%  { transform: translate(0, 15px); }
+    to   { transform: translate(0, -0px); }    
 }
