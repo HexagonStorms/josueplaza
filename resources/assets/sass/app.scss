@@ -44,12 +44,12 @@ html {
 }
 .btn-main {
 	border-radius: 2px;
-	background-color: #b8d1ff;
+	background-color: $brand-info;
 	color: white;
 	
 	&:hover {
 		color: white;
-		background-color: darken(#b8d1ff, 15%);
+		background-color: darken($brand-info, 15%);
 	}
 }
 .btn-alt {
