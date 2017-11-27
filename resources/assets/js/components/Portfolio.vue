@@ -111,6 +111,67 @@
             
             <div class="row site padding-bottom">
                 <div class="col-md-12 text-center site-title">
+                    <h2>Parlevel Link</h2>
+                </div>
+                <div class="col-md-6">
+                    <img class="mockup-img" src="/img/mockups/parlevel_link_c.png">
+                </div>
+                <div class="col-md-6">
+                    <p>
+                        Parlevel Link is the direct link between customers and a vending operation. Enable your account to order vending, micro market, and coffee supplies. The interface also showcases precise sales numbers by machine and date to your account contact. 
+                    </p>
+                    <p>
+                        Customers can leave feedback about your micro market, vending, and OCS operation. With Parlevel Link, you can take requests, receive product suggestions, and know about potential issues faster than ever. The interface is also completely customizable. Vending operations can add with their logos, colors, social media links, company slogan, and more.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6 class="portfolio-subheader"><b>FRONTEND</b></h6>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Javascript</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-javascript-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">HTML5</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-html5-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">CSS3</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-css3-plain-wordmark large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">SASS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-sass-original large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">AngularJS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-angularjs-plain large-icon"></i></div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <h6 class="portfolio-subheader"><b>BACKEND</b></h6>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">PHP</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-php-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">MySQL</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-mysql-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Laravel</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-laravel-plain large-icon"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row site padding-bottom">
+                <div class="col-md-12 text-center site-title">
                     <h2>Pro Players Online</h2>
                 </div>
                 <div class="col-md-6">
@@ -188,18 +249,95 @@
                 </div>
             </div>
             
+            <div class="row site padding-bottom">
+                <div class="col-md-12 text-center site-title">
+                    <h2>Parlevel VMS</h2>
+                </div>
+                <div class="col-md-6">
+                    <img class="mockup-img" src="/img/mockups/parlevel_vms_c.png">
+                </div>
+                <div class="col-md-6">
+                    <p>
+                        With a team of many other developers, I work on both frontend and backend on the Parlevel VMS.
+                    </p>
+                    <p>
+                        Parlevel VMS is a powerful, accessible, and intuitive vending management system. Vending operators can manage their vending, OCS, and micro market lines side-by-side for the first time, and use live data to remotely view machine alerts, machine status, product inventory levels, route progress, and more – anywhere, anytime, and from any device.
+                    </p>
+                    <p>
+                        The VMS is loaded with countless feature such as product merchandising, optimization, routing capabilities, mobile apps, on top of a plethora of reporting and analytical tools.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6 class="portfolio-subheader"><b>FRONTEND</b></h6>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Javascript</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-javascript-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">HTML5</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-html5-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">CSS3</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-css3-plain-wordmark large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">SASS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-sass-original large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">AngularJS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-angularjs-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">jQuery</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-jquery-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Google Maps API</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="fa fa-google large-icon"></i></div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <h6 class="portfolio-subheader"><b>BACKEND</b></h6>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">PHP</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-php-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">MySQL</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-mysql-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Laravel</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-laravel-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <a href="https://parlevelstore.com"><btn class="btn btn-main">Live Site <i class="fa fa-external-link" aria-hidden="true"></i></btn></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <div class="row site">
                 <div class="col-md-12 text-center site-title">
                   <h2>Parlevel Business Feed</h2>  
                 </div> 
                 <div class="col-md-6">
-                    <img class="mockup-img" src="/img/mockups/feed1_1000x898.png">
+                    <img class="mockup-img" src="/img/mockups/feed1_c.png">
                 </div>
                 <div class="col-md-6">
                     <p>
-                        Parlevel’s Business Feed sends everything you need to know about your vending, micro market, or OCS operation directly to your mobile phone. Receive push notifications for route progress, service ticket status, customer feedback, and more!
+                        Parlevel’s Business Feed sends everything you need to know about your vending, micro market, or OCS operation directly to your mobile phone. Receive push notifications for route progress, service ticket status, customer feedback, and more! They are currently 27 different types of notifications, with more on the way.
                     </p>
-                    
                     <div class="row">
                         <div class="col-md-6">
                             <h6 class="portfolio-subheader"><b>FRONTEND</b></h6>
@@ -263,6 +401,69 @@
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <a href="https://play.google.com/store/apps/details?id=com.parlevelsystems.BusinessFeed&hl=en"><btn class="btn btn-alt">Android <i class="fa fa-android" aria-hidden="true"></i></btn></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row site padding-bottom">
+                <div class="col-md-12 text-center site-title">
+                    <h2>Bravelets</h2>
+                </div>
+                <div class="col-md-6">
+                    <img class="mockup-img" src="/img/mockups/bravelets_c.png">
+                </div>
+                <div class="col-md-6">
+                    <p>
+                        With a team of 5 other developers, I worked both front-end and back-end developer responsibilities for Bravelets.com.
+                    </p>
+                    <p>
+                        Bravelets™ is a for-profit company with giving at our core. We believe in transparency. We believe in making a difference. We don’t believe in the phrase “a portion of proceeds will be donated….”. What does that mean? What portion, what proceeds? That kind of giving is confusing and unfulfilling to the customer. Our giving is clear, transparent, and easy to understand. When buying a product from Bravelets, you always know the exact amount being donated, and exactly where it is going. We want you to be confident in your purchase, and proud to have made a difference.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6 class="portfolio-subheader"><b>FRONTEND</b></h6>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">Javascript</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-javascript-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">HTML</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-html5-plain large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">CSS</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-css3-plain-wordmark large-icon"></i></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">jQuery</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-jquery-plain large-icon"></i></div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <h6 class="portfolio-subheader"><b>BACKEND</b></h6>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">PHP</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-php-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">MySQL</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><i class="devicon-mysql-plain large-icon"></i></div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-8 col-sm-6 col-xs-6">CakePHP</div>
+                                <div class="col-md-4 col-sm-6 col-xs-6"><img width="30px" src="http://www.aparajayah.com/img/staticpage/small/51dd5de9-62e4-49f6-9e71-36c7d8acb077.png"></div>
+                            </div>
+                            
+                            <div class="row margin-top">
+                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                    <a href="https://www.bravelets.com/"><btn class="btn btn-main">Live Site <i class="fa fa-external-link" aria-hidden="true"></i></btn></a>
                                 </div>
                             </div>
                         </div>
