@@ -37,10 +37,16 @@
                     </p>
                 </div>
                 <div class="event">
-                    <h3>October 2016 - Present</h3>
+                    <h3>January 2018 - Present</h3>
+                    <h4>Full Stack Web Development Instructor</h4>
+                    <h5>Valley Technical Academy</h5>
+                    <p class="text-lg-left">At the Valley Technical Academy, I instruct students in front end and back end development. I do this by creating a curriculum utilized in the philosophy of hands-on training. I also help generate student enrollment through interaction with potential students during tours as well as supporting our corporate partners in project work during training.</p>
+                </div>
+                <div class="event">
+                    <h3>October 2016 - December 2017</h3>
                     <h4>Full Stack Web Developer</h4>
                     <h5>Parlevel Systems</h5>
-                    <p class="text-lg-left">At Parlevel, I code back-end features in PHP on top of the Laravel framework utilizing the following technologies: HTML, CSS, PHP, MySQL, JavaScript, AngularJS, Laravel, and more. Responsibilities include (but are not limited to): systems analysis, code creation, testing, build/release technical documentation and customer technical support. My code is designed with responsive web design techniques and ran across a wide range of browsers and Devices.</p>
+                    <p class="text-lg-left">At Parlevel, I coded back-end features in PHP on top of the Laravel framework utilizing the following technologies: HTML, CSS, PHP, MySQL, JavaScript, AngularJS, Laravel, and more. Responsibilities included (but were not limited to): systems analysis, code creation, testing, build/release technical documentation and customer technical support. My code was designed with responsive web design techniques and ran across a wide range of browsers and devices.</p>
                 </div>
                 <div class="event">
                     <h3>July 2016 - October 2016</h3>
