@@ -8,7 +8,7 @@
         <title>Josue Plaza | Full Stack Developer</title>
         <link type="text/css" rel="stylesheet" href="/css/app.css">
         <link rel="icon" type="image/png" sizes="16x16" href="/img/jp_logo_grey.png">
-        
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-84658253-1"></script>
         <script>
@@ -24,25 +24,25 @@
         <div id='app'>
             <nav class="navbar navbar-default">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#/">
+                    <router-link class="navbar-brand" v-bind:to="'/'">
                         <transition name="fade" appear>
                             <img alt="Brand" src="/img/jp_logo2_white.png" id="brand-logo">
                         </transition>
-                    </a>
+                    </router-link>
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
-                        <span class="icon-bar"></span> 
+                        <span class="icon-bar"></span>
                     </button>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a class="hvr-underline-from-center hvr-grow" href="#/">HOME</a></li>
-                        <li><a class="hvr-underline-from-center hvr-grow" href="#/resume">RESUME</a></li>
-                        <li><a class="hvr-underline-from-center hvr-grow" href="#/portfolio">PORTFOLIO</a></li>
-                        <!-- <li><a href="#/contact">CONTACT</a></li> -->
+                        <li><router-link v-bind:to="'/'" class="hvr-underline-from-center hvr-grow" >HOME</router-link></li>
+                        <li><router-link class="hvr-underline-from-center hvr-grow" v-bind:to="'/resume'">RESUME</router-link></li>
+                        <li><router-link class="hvr-underline-from-center hvr-grow" v-bind:to="'/portfolio'">PORTFOLIO</router-link></li>
+                        <!-- <li><a href="/contact">CONTACT</a></li> -->
                     </ul>
-                    
+
                 </div>
             </nav>
             <transition name="slide">

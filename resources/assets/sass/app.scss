@@ -46,7 +46,7 @@ html {
 	border-radius: 2px;
 	background-color: $brand-info;
 	color: white;
-	
+
 	&:hover {
 		color: white;
 		background-color: darken($brand-info, 15%);
@@ -86,7 +86,7 @@ body {
 		width: 36px;
 	}
 	.navbar-default {
-		background-color: $white-pink; 
+		background-color: $white-pink;
 	}
 }
 @media (min-width: 768px) {
@@ -157,7 +157,7 @@ body {
 	line-height: 1em;
 }
 .scoot {
-	margin-top: 72px; 
+	margin-top: 72px;
 }
 
 /* ----------------------------------------------------------------- */
@@ -431,7 +431,7 @@ body {
     transition-delay: 0.5s;
 }
 .fade-leave {
-	
+
 }
 .fade-leave-active {
 	transition: opacity 1s linear;
@@ -445,7 +445,7 @@ body {
 	// animation: slide-in 0.75s ease-out forwards;
 }
 .slide-leave {
-	
+
 }
 .slide-leave-active {
 	// animation: slide-out 0.75s ease-out forwards;
@@ -472,7 +472,7 @@ body {
 }
 
 /* ARROW HANG */
-.floating {  
+.floating {
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
@@ -484,5 +484,5 @@ body {
 @keyframes floating {
     from { transform: translate(0,  0px); }
     65%  { transform: translate(0, 15px); }
-    to   { transform: translate(0, -0px); }    
+    to   { transform: translate(0, -0px); }
 }

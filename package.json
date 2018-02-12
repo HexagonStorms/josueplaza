@@ -21,7 +21,9 @@
   },
   "dependencies": {
     "devicon": "^2.0.0",
+    "font-awesome": "^4.7.0",
     "hover.css": "^2.2.1",
+    "particles.js": "^2.0.0",
     "vue-router": "^3.0.1"
   }
 }
