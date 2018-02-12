@@ -82,7 +82,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-javascript-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -92,7 +92,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-jquery-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -102,7 +102,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-php-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -112,7 +112,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-html5-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -122,7 +122,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-css3-plain-wordmark large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -132,7 +132,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-sass-original large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -142,7 +142,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-mysql-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -152,7 +152,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-git-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -162,7 +162,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-apache-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
 <!--                 <ul class="skills">
@@ -193,22 +193,12 @@
 
                 <div class="row right-entry">
                     <div class="col-xs-4">
-                        <span class="strong-text">Photoshop</span>
-                    </div>
-                    <div class="col-xs-2 col-xs-offset-1">
-                        <i class="devicon-photoshop-plain large-icon"></i>
-                    </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
-                </div>
-
-                <div class="row right-entry">
-                    <div class="col-xs-4">
                         <span class="strong-text">Linux</span>
                     </div>
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-linux-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -217,6 +207,16 @@
                     </div>
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-laravel-plain large-icon"></i>
+                    </div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">4+ years</div>
+                </div>
+
+                <div class="row right-entry">
+                    <div class="col-xs-4">
+                        <span class="strong-text">Photoshop</span>
+                    </div>
+                    <div class="col-xs-2 col-xs-offset-1">
+                        <i class="devicon-photoshop-plain large-icon"></i>
                     </div>
                     <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
@@ -239,7 +239,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-angularjs-plain-wordmark large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">2+ years</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -249,7 +249,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-angularjs-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">1+ year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">2+ year</div>
                 </div>
 
                 <div class="row right-entry">
