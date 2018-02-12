@@ -13,10 +13,13 @@
                 <div class="row">
                     <div class="col-xs-12 white-text">
                         <p>
-                            Hey there! My name is Josue Plaza and I am a Full Stack Developer with a taste for learning. I have designed and built rich, robust, and user-friendly applications for web projects of all sizes.
+                            Music producer. Gamer. Full Stack Developer. Life-long learner. I have designed and built rich, robust, and user-friendly applications for web projects of all sizes.
                         </p>
                         <p>
                             I am a huge travel enthusiast, with a lifetime goal to visit as many places as I can. I love meeting new people from around the world and learning about their day-to-day lifestyle.
+                        </p>
+                        <p>
+                            Scuba diving and hiking are two of my favorite pastimes when traveling across the world. I make it a goal to explore as many different places and cultures as I can.
                         </p>
                     </div>
                 </div>
@@ -190,12 +193,22 @@
 
                 <div class="row right-entry">
                     <div class="col-xs-4">
+                        <span class="strong-text">Photoshop</span>
+                    </div>
+                    <div class="col-xs-2 col-xs-offset-1">
+                        <i class="devicon-photoshop-plain large-icon"></i>
+                    </div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
+                </div>
+
+                <div class="row right-entry">
+                    <div class="col-xs-4">
                         <span class="strong-text">Linux</span>
                     </div>
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-linux-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -231,7 +244,7 @@
 
                 <div class="row right-entry">
                     <div class="col-xs-4">
-                        <span class="strong-text">Angular 4+</span>
+                        <span class="strong-text">Angular 5+</span>
                     </div>
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-angularjs-plain large-icon"></i>
@@ -272,17 +285,6 @@
                     </div>
                     <div class="col-xs-3 col-xs-offset-2 grey-text">1 year</div>
                 </div>
-
-                <div class="row right-entry">
-                    <div class="col-xs-4">
-                        <span class="strong-text">Photoshop</span>
-                    </div>
-                    <div class="col-xs-2 col-xs-offset-1">
-                        <i class="devicon-photoshop-plain large-icon"></i>
-                    </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">3+ year</div>
-                </div>
-
                <!--  <ul class="skills">
                     <li>Photoshop</li>
                     <li>Premiere Pro</li>
