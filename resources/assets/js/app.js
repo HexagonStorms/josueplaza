@@ -10,7 +10,10 @@ Vue.use(VueRouter);
 
 const router = new VueRouter({
 	routes,
-	mode: 'history'
+	mode: 'history',
+	// routes: [
+    //     { path: '*', redirect: { name: 'subscribers.index' } }
+    // ]
 });
 
 const app = new Vue({
