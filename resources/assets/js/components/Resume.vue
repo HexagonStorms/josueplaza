@@ -263,7 +263,7 @@
                             </svg>
                         </div>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">1 year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">2+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -273,7 +273,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-nodejs-plain large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">1 year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">2+ years</div>
                 </div>
 
                 <div class="row right-entry">
@@ -283,7 +283,7 @@
                     <div class="col-xs-2 col-xs-offset-1">
                         <i class="devicon-react-original large-icon"></i>
                     </div>
-                    <div class="col-xs-3 col-xs-offset-2 grey-text">1 year</div>
+                    <div class="col-xs-3 col-xs-offset-2 grey-text">2+ years</div>
                 </div>
                <!--  <ul class="skills">
                     <li>Photoshop</li>
